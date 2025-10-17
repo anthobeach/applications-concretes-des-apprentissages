@@ -5,39 +5,39 @@ flowchart LR
 		subgraph le1[L1]
 				subgraph se1[S1]
 					subgraph stat1[Statistiques]
-				    id1(<u> Bases en probabilités <br> et statistique </u>)
+				    id1(  Bases en probabilités <br> et statistique  )
 			    end
 			    subgraph info1[Informatique]
+					id2(  Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique  )
 				    id3((Ou))
-				    id2(<u> Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique </u>)
-				    id4(<u> Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité </u>)
+				    id4(  Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité  )
 			    end
 			    subgraph math1 [Mathématiques]
-						id6((Ou))
-						id7(<u> Mathématiques générales </u>)
-				    id5(<u> Outils mathématiques </u>)
+					id7(  Mathématiques générales  )
+					id6((Ou))
+				    id5(  Outils mathématiques  )
 					end
 		    end
 		    subgraph se2[S2]
 			    subgraph math2[Mathématiques]
-				    id8(<u> Algèbre </u>)
+				    id8(  Algèbre  )
 				  end
 				  subgraph info2[Informatique]
-					  id9(<u> Programmation et <br> Applications interactives </u>)
+					  id9(  Programmation et <br> Applications interactives  )
 				  end
 		    end
     end
     subgraph le2 [L2]
 	    subgraph se4[S4]
 		    subgraph stat2[Statistiques]
-			    id10(<u> Tests d'Hypothèses <br> et Régression </u>)
+			    id10(  Tests d'Hypothèses <br> et Régression  )
 			  end
 			end
     end
     subgraph le3 [L3]
 	    subgraph se5 [S5]
 		    subgraph info3 [Informatique]
-			    id11(<u> Sciences des données </u>)
+			    id11(  Sciences des données  )
 			  end
 			end
 	  end
