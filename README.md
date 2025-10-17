@@ -166,8 +166,22 @@ Pour cela, on réalise un blindtest évalué selon 3 conditions :
 - Groupe C (Retraité)
 
 Les hypothèses suivantes sont établies : 
-- Le groupe A reconnaitra mieux les chansons que le groupe B et C 
-- Le groupe B et C reconnaitront de façon équivalente les chansons
+1. Le groupe A reconnaitra mieux les chansons que le groupe B et C 
+2. Le groupe B et C reconnaitront de façon équivalente les chansons
 
 Voici les résultats obtenus : 
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/60553e9a25c434536673f91b323a25bd678b1ef7/images/moyenne_de%20scores_au_blindtest.svg)
+
+**Pour la première hypothèse :**
+On constate qu'il existe à chaque fois, une différence significative entre le groupe A et les autres groupes. <br> 
+Ce qui veut dire que l'hypothèse nulle (H0) selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes est rejetée. On admet donc l'hypothèse alternative (H1) selon laquelle le groupe A est différents des deux autres groupes. <br>
+Plus précisement, les différences sont plus marquées avec le groupe B que le groupe C. <br>
+On peut conclure que l'hypothèse est validée. <br> <br>
+
+**Pour la deuxième hypothése :**
+On constate alors, qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
+Plus précisement, la différence est marquée sur le nombre de titres trouvés. <br>
+Ce qui veut dire que l'hypothèse nulle (H0) selon laquelle il n'existe pas de différence entre le groupe B et C est admise. L'hypothèse alternative (H1) selon laquelle il existe une différence entre le groupe B et C est rejetée. <br>
+On peut conclure que l'hypothèse est validée.
+
+
