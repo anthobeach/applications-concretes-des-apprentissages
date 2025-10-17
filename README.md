@@ -170,4 +170,4 @@ Les hypothèses suivantes sont établies :
 - Le groupe B et C reconnaitront de façon équivalente les chansons
 
 Voici les résultats obtenus : 
-![](/images/Moyenne_de_scores_au_blindtest.svg)
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/60553e9a25c434536673f91b323a25bd678b1ef7/images/moyenne_de%20scores_au_blindtest.svg)
