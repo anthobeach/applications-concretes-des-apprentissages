@@ -3,6 +3,26 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 
 ## Programmation de la Régression Linéaire Multiple (RLM)
 
+> [!NOTE]
+> Sa réalisation nécessite la maitrise d'outils Mathématiques, Statistiques et Informatique. <br>
+> Elle permet d'estimer une variable quantitive en fonction de variables explicant celle-ci.
+
+<details>
+<summary> Exemple </summary>
+On cherche à déterminer le salaire d'un joueur de Basket en NBA en fonction de ses performances.
+Pour cela, on possède un tableau regroupant quelques statistiques sur des joueurs. <br>
+Voici un extrait du tableau : <br>
+
+| Nom           | Prénom     | Nationalité    | Moyenne de points par match  | Moyenne de rebonds captés par match  | Moyenne de passes décisives  | Score d'efficacité du joueur  | Salaire annuel (USD) |
+| ------------- | ---------- | -------------- | ---- | ---- | ---- | ---- | -------------------- |
+| Antetokounmpo | Giannis    | Grec           | 33.0 | 11.8 | 5.4  | 28.4 | 54 126 450 $         |
+| Curry         | Stephen    | Américain      | 25.0 | 4.4  | 6.0  | 24.6 | 55 761 216 $         |
+| James         | LeBron     | Américain      | 24.4 | 7.8  | 8.2  | 25.8 | 51 415 938 $         |
+| Jokic         | Nikola     | Serbe          | 27.9 | 12.7 | 9.2  | 29.8 | 55 224 526 $         |
+| Wembanyama    | Victor     | Français       | 22.4 | 10.8 | 3.6  | 21.7 | 12 160 800 $         |
+  
+</details>
+
 ```mermaid
 flowchart LR
 		subgraph le1[L1]
