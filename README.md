@@ -168,3 +168,6 @@ Pour cela, on réalise un blindtest évalué selon 3 conditions :
 Les hypothèses suivantes sont établies : 
 - Le groupe A reconnaitra mieux les chansons que le groupe B et C 
 - Le groupe B et C reconnaitront de façon équivalente les chansons
+
+Voici les résultats obtenus : 
+![](main/images/Moyenne de scores au blindtest.svg)
