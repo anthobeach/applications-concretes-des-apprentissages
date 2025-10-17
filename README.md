@@ -19,9 +19,9 @@ flowchart LR
 				    id4(  Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité  )
 			    end
 			    subgraph math1 [Mathématiques]
-					id7(  Mathématiques générales  )
+         			id5(  Outils mathématiques  )
 					id6((Ou))
-				    id5(  Outils mathématiques  )
+					id7(  Mathématiques générales  )
 					end
 		    end
 		    subgraph se2[S2]
