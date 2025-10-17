@@ -152,3 +152,19 @@ flowchart LR
 	  id7 -- Théorie des tests <br> statistiques --> id8
 	  id6 -- Bases en langage <br> de programmation R --> id8
 ```
+### Exemple
+On cherche à savoir s'il existe une différence générationnelle dans la reconnaissance de style musicaux différents. 
+
+Pour cela, on réalise un blindtest évalué selon 3 conditions : 
+- Retrouver le titre de la musique parmi 54 références musicales
+- Retrouver le nom de l'artiste parmi 50 références musciales
+- Retrouver le titre et le nom de l'artiste parmi 80 références musciales
+
+3 groupes sont constitués : 
+- Groupe A (Etudiant)
+- Groupe B (Actif)
+- Groupe C (Retraité)
+
+Les hypothèses suivantes sont établies : 
+- Le groupe A reconnaitra mieux les chansons que le groupe B et C 
+- Le groupe B et C reconnaitront de façon équivalente les chansons
