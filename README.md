@@ -5,7 +5,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 
 > [!NOTE]
 > Sa réalisation nécessite la manipulation d'outils Mathématiques, Statistiques et Informatique. <br>
-> Elle permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
+> La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
 ### Diagramme des compétences à maitriser
 
@@ -95,3 +95,60 @@ Les variables permettant d'expliquer le salaire sont :
 - `Moyenne de rebonds captés par match `
 - `Moyenne de passes décisives par match`
 - `Score d'efficacité du joueur`
+
+## Programmation de tests statistiques
+
+> [!NOTE]
+> Sa réalisation nécessite la manipulation d'outils Mathématiques, Probabilistes et Informatique. <br>
+> Le test statistisque permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1)
+
+### Diagramme des compétences à maitriser
+```mermaid
+flowchart LR
+		subgraph le1 [L1]
+			subgraph se1 [S1]
+				subgraph statproba1[Statistiques & Probabilités]
+					id1( Bases en probabilités <br> et statistique )
+				end
+				subgraph info1 [Informatique]
+			    id2( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
+				id3((Ou))
+				id4( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
+			  end
+		  end
+		  subgraph se2[S2]
+		   subgraph info2[Informatique]
+			  id5( Programmation et <br> Applications interactives )
+			 end
+			end
+		end
+		subgraph le2[L2]
+			subgraph se3[S3]
+				subgraph info3 [Informatique]
+					id6( Techniques d'enquêtes ) 
+				end
+				subgraph statproba2 [Statistiques & Probabilités]
+					id7( Probabilités #0040;A#0041; et <br> Statistique Inférentielle #0040;B#0041; )
+				end
+			end
+		end
+		id8@{ shape: dbl-circ, label: Programmation d'un <br> test statistique }
+		
+		%% clickable links
+			%% S1
+			click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27784"
+	    	click id2 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38897"
+	   	 	click id4 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38899"
+	    	%% S2
+	    	click id5 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27565"
+	   	 	%% S3
+	    	click id6 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28124"
+	    	click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
+	    
+	  %% kwnoledge transfer
+	  id1 -- Loi usuelles et <br> statistiques descriptives --> id7
+	  info1 -- Bases <br> algorithmiques --> id5
+	  id5 -- Fonctions <br> courantes --> id6
+	  id7 -- Théorie des tests <br> statistiques --> id8
+	  id6 -- Bases en langage <br> de programmation R --> id8
+```
