@@ -50,7 +50,7 @@ flowchart LR
 			  end
 			end
 	  end
-    id12@{ shape: dbl-circ, label: Programmation de la <br> régression linéaire multiple }
+    id12@{ shape: dbl-circ, label: Programmation d'une <br> régression linéaire multiple }
     %% clickable links
 	    %% S1
 	    click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27784"
