@@ -155,33 +155,31 @@ flowchart LR
 ### Exemple
 On cherche à savoir s'il existe une différence générationnelle dans la reconnaissance de style musicaux différents. 
 
-Pour cela, on réalise un blindtest évalué selon 3 conditions : 
+**Pour cela, on réalise un blindtest évalué selon 3 conditions :** 
 - Retrouver le titre de la musique parmi 54 références musicales
 - Retrouver le nom de l'artiste parmi 50 références musciales
 - Retrouver le titre et le nom de l'artiste parmi 80 références musciales
 
-3 groupes sont constitués : 
+**3 groupes sont constitués :** 
 - Groupe A (Etudiant)
 - Groupe B (Actif)
 - Groupe C (Retraité)
 
-Les hypothèses suivantes sont établies : 
+**Les hypothèses suivantes sont établies :** 
 1. Le groupe A reconnaitra mieux les chansons que le groupe B et C 
 2. Le groupe B et C reconnaitront de façon équivalente les chansons
 
-Voici les résultats obtenus : 
+**Voici les résultats obtenus :**
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e2add63b6ea2e6db4582e3b94bdc17bc916d6207/images/moyenne_de%20scores_au_blindtest.svg)
 
 **Pour la première hypothèse :**
 On constate qu'il existe à chaque fois, une différence significative entre le groupe A et les autres groupes. <br> 
-Ce qui veut dire que l'hypothèse nulle (H0) selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes est rejetée. On admet donc l'hypothèse alternative (H1) selon laquelle le groupe A est différents des deux autres groupes. <br>
+Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes est rejetée. On admet donc l'hypothèse alternative globale (H1) selon laquelle le groupe A est différent des deux autres groupes. <br>
 Plus précisement, les différences sont plus marquées avec le groupe B que le groupe C. <br>
 On peut conclure que l'hypothèse est validée. <br> <br>
 
 **Pour la deuxième hypothése :**
 On constate alors, qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
-Plus précisement, la différence est marquée sur le nombre de titres trouvés. <br>
-Ce qui veut dire que l'hypothèse nulle (H0) selon laquelle il n'existe pas de différence entre le groupe B et C est admise. L'hypothèse alternative (H1) selon laquelle il existe une différence entre le groupe B et C est rejetée. <br>
+Pour le cas où la différence est présente, elle est sur le nombre de titres trouvés. <br>
+Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe B et C est admise. L'hypothèse alternative globale (H1) selon laquelle il existe une différence entre le groupe B et C est rejetée. <br>
 On peut conclure que l'hypothèse est validée.
-
-
