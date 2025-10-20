@@ -266,3 +266,22 @@ flowchart LR
     id11 -- Modélisation <br> mathématiques <br> et informatique --> id12
     id12 -- Méthodes pour modéliser <br> des phénomènes <br> biologiques --> id13
 ```
+### Exemple
+
+On cherche à modéliser la transmission des gènes entre les abeilles. <br>
+Pour cela, on s'appuit sur l'illustration suivante : 
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/56ef74f67f3b49ac5c79f586eaf2535dfdceaa45/images/Asym%C3%A9tries%20g%C3%A9n%C3%A9tiques.jpg)
+
+Cette illustration est extraite d'un [article de revue](https://www.erudit.org/fr/revues/ms/2003-v19-n4-ms517/006497ar/) paru dans médecine sciences. 
+
+Comme on peut le voir sur cette illustration, la reine transmet la moitié de ses chromosomes alors que le mâle lui, la totalité. 
+Cela s'explique par le fait que le mâle est issu directement de la reine (pas de fécondation de l'oeuf par un mâle). Il ne possède que pour partrimoine génétique, la moitié des gènes de la reine. 
+Ses chromosomes sont tous identfiques. 
+Ce qui a pour conséquence, une diversité génétique très restreinte entre les mâles issu d'une même reine. <br> <br>
+
+On constacte que par ce procédé, on a des différences de transmission de gènes qui conduisent alors à des liens de parenté différencié selon le sexe.
+En prennant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). 
+La *Fille b* a même plus de gènes en commun avec son neveu (37,5 % en commun) que son propre frère. <br> <br>
+Ce phénomène que l'on appelle la dillution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. 
+En faisant cela, elle s'assure que ses filles s'occupent plutôt de leurs soeurs que de leur propre descendence. 
+La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protége son statut de reine. 
