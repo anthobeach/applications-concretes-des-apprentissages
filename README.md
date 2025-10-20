@@ -189,7 +189,9 @@ Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe 
 On peut conclure que l'hypothèse est validée.
 
 ## Modélisation biomathématique
-
+> [!INFO]
+> Sa réalisation nécessite l'utilisation d'outils mathématiques, informatique et de notions en biologie.
+> Elle permet de représenter des phénomènes biologiques sous une forme quantifiable afin d'extraitre des informations complémentaires.
 ### Digramme des compétences à maitriser
 
 ```mermaid
