@@ -269,7 +269,7 @@ flowchart LR
 ### Exemple
 
 On cherche à modéliser la transmission des gènes entre les abeilles. <br>
-Pour cela, on s'appuit sur l'illustration suivante : 
+Pour cela, on s'appuie sur l'illustration suivante : 
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/56ef74f67f3b49ac5c79f586eaf2535dfdceaa45/images/Asym%C3%A9tries%20g%C3%A9n%C3%A9tiques.jpg)
 
 Cette illustration est extraite d'un [article de revue](https://www.erudit.org/fr/revues/ms/2003-v19-n4-ms517/006497ar/) paru dans médecine sciences. 
