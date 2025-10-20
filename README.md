@@ -285,5 +285,5 @@ On constacte que par ce procédé, on a des différences de transmission de gèn
 En prennant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). 
 La *Fille b* a même plus de gènes en commun avec son neveu (37,5 % en commun) que son propre frère (25 % en commun). <br> <br>
 Ce phénomène que l'on appelle la dillution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. 
-En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendence (leurs soeurs) que de la leur. 
+En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendance (leurs soeurs) que de la leur. 
 La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protége son statut de reine. 
