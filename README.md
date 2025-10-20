@@ -277,7 +277,7 @@ Cette illustration est extraite d'un [article de revue](https://www.erudit.org/f
 Comme on peut le voir sur cette illustration, la reine transmet la moitié de ses chromosomes alors que le mâle lui, la totalité. 
 Cela s'explique par le fait que le mâle est issu directement de la reine (pas de fécondation de l'oeuf par un mâle). Il ne possède que pour partrimoine génétique, la moitié des gènes de la reine. 
 Ses chromosomes sont tous identfiques. 
-Ce qui a pour conséquence, une diversité génétique très restreinte entre les mâles issu d'une même reine. <br> <br>
+Ce qui a pour conséquence, une diversité génétique plus restreinte entre les mâles issu d'une même reine. <br> <br>
 
 On constacte que par ce procédé, on a des différences de transmission de gènes qui conduisent alors à des liens de parenté différencié selon le sexe.
 En prennant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). 
