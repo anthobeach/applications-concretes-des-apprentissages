@@ -187,3 +187,82 @@ On constate alors, qu'il existe 2 fois sur 3, aucune différence significative e
 Pour le cas où la différence est présente, elle est sur le nombre de titres trouvés. <br>
 Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe B et C est admise. L'hypothèse alternative globale (H1) selon laquelle il existe une différence entre le groupe B et C est rejetée. <br>
 On peut conclure que l'hypothèse est validée.
+
+## Modélisation biomathématique
+
+### Digramme des compétences à maitriser
+
+```mermaid
+flowchart LR
+		subgraph le1 [L1]
+			subgraph se1 [S1]
+				subgraph math1 [Mathématiques]
+					id1( Outils mathématiques )
+					id2((Ou))
+					id3( Mathématiques générales )
+		    	end
+		    	subgraph info1 [Informatique]
+					id4( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
+		    		id5((Ou))
+			  		id6( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
+			  	end
+	    end
+	    subgraph se2[S2]
+		    subgraph math2[Mathématiques]
+			    id7( Analyse appliquée )
+			    id8( Algèbre )
+			  end
+			  subgraph info2 [Informatique]
+				  id9( Programmation et <br> Applications interactives )
+				end
+	    end
+    end
+    subgraph le2 [L2]
+	    subgraph se3 [S3]
+		    subgraph math3 [Mathématiques]
+			    id10( Fonctions de plusieurs <br> variables et optimisation )
+			  end
+			end
+		end
+		subgraph le3 [L3]
+			subgraph se5 [S5]
+				subgraph math4 [Mathématiques]
+					id11( Méthodes Numériques <br> Linéaires et Non linéaires )
+				end
+			end
+			subgraph se6 [S6]
+				subgraph math5 [Mathématiques]
+					id12( Systèmes dynamiques et <br> Modélisation <br>  Biomathématique ) 
+				end
+			end
+		end
+		id13@{ shape: dbl-circ, label: Résolution de modèles <br> biomathématique }
+		
+    %% clickable link
+	    %% S1
+	    click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38891"
+	    click id3 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    click id4 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38897"
+	    click id6 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38899"
+	    %% S2
+	    click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27957"
+	    click id8 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27954"
+	    click id9 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27565"
+	    %% S3
+	    click id10 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28020"
+	    %% S5 
+	    click id11 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77922"
+	    %% S6
+	    click id12 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77953"
+    %% knowledge transfer
+    math1 -- Base de l'analyse <br> des fonctions --> id7
+    math1 -- Bases algébriques --> id8
+    info1 -- Fondamentaux <br> algorithmiques  --> id9
+    id7 -- Dérivations de fonctions --> id10
+    id7 -- Suites numériques --> id12
+    id8 -- Méthodes de résolution <br> d'un système linéaire --> id12
+    id9 -- Fonction courantes --> id11
+    id10 -- Dérivations partielles et <br> équations différentielles --> id12
+    id11 -- Modélisation <br> mathématiques <br> et informatique --> id12
+    id12 -- Méthodes pour modéliser <br> des phénomènes <br> biologiques --> id13
+```
