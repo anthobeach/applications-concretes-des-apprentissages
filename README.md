@@ -287,3 +287,84 @@ La *Fille b* a même plus de gènes en commun avec son neveu (37,5 % en commun) 
 Ce phénomène que l'on appelle la dillution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. 
 En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendance (leurs soeurs) que de la leur. 
 La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protége son statut de reine. 
+
+# Les applications possibles en poursuivant en Master
+Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et de Master.
+## Ergonomie des applications
+> [!NOTE]
+> Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives. <br>
+> Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^1].
+[^1]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et une connaissance de lui-même.
+### Digramme des compétences à maitriser
+
+```mermaid
+flowchart LR
+		subgraph le1 [L1]
+			subgraph se1 [S1]
+				subgraph sc1 [Sciences Cognitives]
+		    		id1(<u> Introduction à la gestion <br> des organisations et <br> aux sciences cognitives </u>)
+		    	end
+		    	subgraph info1 [Informatique]
+                    id2(<u> Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique </u>)
+					id3((Ou))
+					id4(<u> Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité </u>)
+               end
+	    end
+	    subgraph se2[S2]
+			  subgraph info2 [Informatique]
+				  id5(<u> Programmation et <br> Applications interactives </u>)
+              end
+	    end
+    end
+    subgraph le2 [L2]
+	    subgraph se3 [S3]
+		    subgraph sc2 [Sciences Cognitives]
+			    id6(<u> Bases de neurobiologie et <br> neuroanatomie, <br> fondamentaux cognitifs et <br> apprentissage </u>)
+			   end
+			end
+	    subgraph se4 [S4]
+		    subgraph info3 [Informatique]
+			    id7(<u> Systèmes de gestion <br> de bases de données,<br> conception de sites <br> web dynamiques </u>)
+			  end
+			end
+		end
+		subgraph le3 [L3]
+			subgraph se6 [S6]
+				subgraph sc3 [Sciences Cognitives]
+					id8(<u> Facteur Humain et <br> Ergonomie</u>) 
+				end
+			end
+		end
+		subgraph mr1 [Master]
+			subgraph sc4 [Sciences Cognitives]
+				id9(Modélisation en <br> psychologie)
+			end
+			subgraph info4 [Informatique]
+				id10(Technologies web avancées)
+			end
+		end
+		id11@{ shape: dbl-circ, label: Création d'applications <br> ergonomiques}
+		
+    %% clickable link
+	    %% S1
+	    click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27787"
+	    click id2 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    click id4 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38897"
+	    %% S2
+	    click id5 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27565"
+	    %% S3
+	    click id6 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27994"
+	    %% S4
+	    click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=52819"
+	    %% S6
+	    click id8 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77961"
+    %% knowledge transfer
+    info1 -- Bases <br> algorithmiques  --> id5
+    id1 -- Base du traitement <br> de l'information --> id6
+    id5 -- Fonctions courantes et <br> interface graphique --> id7
+    id6 -- Composants cognitifs <br> impliqués dans <br> une tâche --> id8
+    id7 -- Langage web et <br> gestion de <br> bases de données --> id10
+    id8 -- Connaissances générales <br> sur l'ergonomie --> id9
+    id9 -- Concepts fondamentaux <br> en ergonomie <br> des applications --> id11
+    id10 -- Framework de <br> développement web <br> et application mobile --> id11
+```
