@@ -374,5 +374,10 @@ Une entreprise fait appel à nos services afin d'améliorer son expérience util
 Elle souhaite que nous lui fassions un retour sur les différentes nouveautés qu'elle pourrait inclure pour compléter son offre déjà existante. <br> <br>
 Pour cela, nous commençons par analyser les applications déjà disponibles actuellement sur le marché. <br>
 Voici l'une des applications analysées : 
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/02d2556a58ccf17c1fe21c95667d6f4faa1dc052/images/Ecrans%20principaux%20de%20l'application%20Helpilepsy.png)
 
+Cette analyse se fait selon 3 axes : 
+- Le design
+- La navigation
+- Les fonctionnalités
 [^2]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
