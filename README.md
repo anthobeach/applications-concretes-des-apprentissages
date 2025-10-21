@@ -368,3 +368,11 @@ flowchart LR
     id9 -- Concepts fondamentaux <br> en ergonomie <br> des applications --> id11
     id10 -- Framework de <br> développement web <br> et application mobile --> id11
 ```
+### Exemple
+
+Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^2].
+Elle souhaite que nous lui fassions un retour sur les différentes nouveautés qu'elle pourrait inclure pour compléter son offre déjà existante. <br> <br>
+Pour cela, nous commençons par analyser les applications déjà disponibles actuellement sur le marché. <br>
+Voici l'une des applications analysées : 
+
+[^2]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
