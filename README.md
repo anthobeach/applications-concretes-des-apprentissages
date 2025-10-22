@@ -377,7 +377,10 @@ Voici l'une des applications analysées :
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/02d2556a58ccf17c1fe21c95667d6f4faa1dc052/images/Ecrans%20principaux%20de%20l'application%20Helpilepsy.png)
 
 Cette analyse se fait selon 3 axes : 
-- Le design
-- La navigation
-- Les fonctionnalités
+- Le design[^3]
+- La navigation[^4]
+- Les fonctionnalités[^5]
 [^2]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
+[^3]: Les différents éléments qui composent l'application (la mise en page, l'équilibre des couleurs, ...).
+[^4]: Les différents éléments qui permettent d'accèder aux contenus de l'application (le menu, les listes déroulantes, ...).
+[^5]: Les différents services qui sont intégrés dans l'application (ajouter, supprimer, modifier, ...).
