@@ -294,7 +294,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 > [!NOTE]
 > Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives. <br>
 > Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^1].
-[^1]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et une connaissance de lui-même.
+[^1]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et de lui-même.
 ### Digramme des compétences à maitriser
 
 ```mermaid
@@ -381,6 +381,6 @@ Cette analyse se fait selon 3 axes :
 - La navigation[^4]
 - Les fonctionnalités[^5]
 [^2]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
-[^3]: Les différents éléments qui composent l'application (la mise en page, l'équilibre des couleurs, ...).
-[^4]: Les différents éléments qui permettent d'accèder aux contenus de l'application (le menu, les listes déroulantes, ...).
-[^5]: Les différents services qui sont intégrés dans l'application (ajouter, supprimer, modifier, ...).
+[^3]: Il fait référence aux différents éléments visuels qui composent l'application (la mise en page, l'équilibre des couleurs, la cohérence graphique, ...).
+[^4]: Il désigne la manière dont l'utilisateur parcours les différents contenus de l'application (le menu, les listes déroulantes, les boutons, ...).
+[^5]: Elles se définissent comme les différentes actions qui sont intégrées dans l'application (ajouter, supprimer, modifier, ...).
