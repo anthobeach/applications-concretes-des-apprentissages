@@ -289,7 +289,7 @@ En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propr
 La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protége son statut de reine. 
 
 # Les applications possibles en poursuivant en Master
-Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et de Master.
+Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et du Master.
 ## Ergonomie des applications
 > [!NOTE]
 > Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives. <br>
@@ -441,3 +441,8 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 [^3]: Il fait référence aux différents éléments visuels qui composent l'application (la mise en page, l'équilibre des couleurs, la cohérence graphique, ...).
 [^4]: Il désigne la manière dont l'utilisateur parcours les différents contenus de l'application (le menu, les listes déroulantes, les boutons, ...).
 [^5]: Elles se définissent comme les différentes actions qui sont intégrées dans l'application (ajouter, supprimer, modifier, ...).
+
+## Interface Cerveau Ordinateur (ICO)
+> [!NOTE]
+> Sa réalisation nécessite des outils mathématiques, probabilistes et informatique mais également des connaissances spécifiques en sciences cognitives.<br>
+> Il permet d'améliorer ou d'explorer des fonctions du système nerveux central afin d'assurer principalement le contrôle et la communication.
