@@ -371,7 +371,7 @@ flowchart LR
 ```
 ### Exemple
 
-Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^2].
+Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^3].
 Elle souhaite que nous lui fassions un retour sur les différentes nouveautés qu'elle pourrait inclure pour compléter son offre déjà existante. <br> <br>
 Pour cela, nous commençons par analyser les applications déjà disponibles actuellement sur le marché. <br>
 Voici l'une des applications analysées : 
