@@ -380,6 +380,63 @@ Cette analyse se fait selon 3 axes :
 - Le design[^3]
 - La navigation[^4]
 - Les fonctionnalités[^5]
+
+**Pour le design :** 
+<details>
+	
+<summary> + </summary>
+
+- Lisibilité des informations de suivi (prise de médicaments, espacement des crises, ...) et de celles à renseigner (ajout ou modification du traitement, d'une crise, ...)
+- Représentation graphique épurée (visibilité des crises sur la semaine, le mois ou l'année)  
+  
+</details>
+
+<details>
+	<summary> - </summary>
+	
+- Bouton pour accéder aux graphiques plus détaillés un peu grossié (sur l'écran d'accueil)
+- Impression d'une liste interminable (sur l'écran paramètres)
+
+</details>
+
+**Pour la navigation :** 
+<details>
+	
+<summary> + </summary>
+
+Fluidité de passage entre les différents éléments de l'écran (pour ajouter, modifier ou consulter des traitements, ...)
+  
+</details>
+
+<details>
+	<summary> - </summary>
+
+- Avoir la possibilité de revenir automatiquement sur le jour actuel si on change d'écran (sur l'écran journal)
+- Devoir swiper vers le haut ou le bas longtemps pour accéder à une date éloignée (sur l'écran journal)
+
+</details>
+
+**Pour les fonctionnalités :** 
+<details>
+	
+<summary> + </summary>
+
+- Affichage de représentations graphiques compréhensibles (crises survenues dans la semaine, humeurs, ...)
+- Gestion de tous les événements courants (traitement, crise, note, effet secondaire, rendez-vous, rappels)
+- Gestion de l'application (compte, notifications et assitance)
+- Gestion d'un bracelet connecté pour détecter les crises nocturnes
+  
+</details>
+
+<details>
+	<summary> - </summary>
+
+- Renseigner la cause d'un effet secondaire (sur l'écran journal)
+- Avoir la possibilité de revenir en arrière si on s'est trompé
+
+</details>
+
+
 [^2]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
 [^3]: Il fait référence aux différents éléments visuels qui composent l'application (la mise en page, l'équilibre des couleurs, la cohérence graphique, ...).
 [^4]: Il désigne la manière dont l'utilisateur parcours les différents contenus de l'application (le menu, les listes déroulantes, les boutons, ...).
