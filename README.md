@@ -303,36 +303,36 @@ flowchart LR
 		subgraph le1 [L1]
 			subgraph se1 [S1]
 				subgraph sc1 [Sciences Cognitives]
-		    		id1(<u> Introduction à la gestion <br> des organisations et <br> aux sciences cognitives </u>)
+		    		id1( Introduction à la gestion <br> des organisations et <br> aux sciences cognitives )
 		    	end
 		    	subgraph info1 [Informatique]
-                    id2(<u> Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique </u>)
+                    id2( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
 					id3((Ou))
-					id4(<u> Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité </u>)
+					id4( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
                end
 	    end
 	    subgraph se2[S2]
 			  subgraph info2 [Informatique]
-				  id5(<u> Programmation et <br> Applications interactives </u>)
+				  id5( Programmation et <br> Applications interactives )
               end
 	    end
     end
     subgraph le2 [L2]
 	    subgraph se3 [S3]
 		    subgraph sc2 [Sciences Cognitives]
-			    id6(<u> Bases de neurobiologie et <br> neuroanatomie, <br> fondamentaux cognitifs et <br> apprentissage </u>)
+			    id6( Bases de neurobiologie et <br> neuroanatomie, <br> fondamentaux cognitifs et <br> apprentissage )
 			   end
 			end
 	    subgraph se4 [S4]
 		    subgraph info3 [Informatique]
-			    id7(<u> Systèmes de gestion <br> de bases de données,<br> conception de sites <br> web dynamiques </u>)
+			    id7( Systèmes de gestion <br> de bases de données,<br> conception de sites <br> web dynamiques )
 			  end
 			end
 		end
 		subgraph le3 [L3]
 			subgraph se6 [S6]
 				subgraph sc3 [Sciences Cognitives]
-					id8(<u> Facteur Humain et <br> Ergonomie</u>) 
+					id8( Facteur Humain et <br> Ergonomie) 
 				end
 			end
 		end
@@ -447,3 +447,149 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 > [!NOTE]
 > Sa réalisation nécessite des outils mathématiques, probabilistes et informatique mais également des connaissances spécifiques en sciences cognitives.<br>
 > Il permet d'améliorer ou d'explorer des fonctions du système nerveux central afin d'assurer principalement le contrôle et la communication.
+
+### Diagramme des compétences à maitriser
+
+```mermaid
+flowchart LR
+		subgraph le1 [L1]
+			subgraph se1 [S1]
+				subgraph sc1 [Sciences Cognitives]
+			    id1( Introduction à la gestion <br> des organisations et <br> aux sciences cognitives )
+		    end
+		    subgraph info1 [Informatique]
+				id2( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
+			    id3((Ou))
+				id4( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
+			  end
+			  subgraph math1 [Mathématiques]
+					id5( Outils mathématiques )
+					id6((Ou))
+					id7( Mathématiques générales )
+				end
+				subgraph proba1[Probabilités]
+					id8( Bases en probabilités <br> et statistique )
+				end
+	    end
+	    subgraph se2[S2]
+			  subgraph info2 [Informatique]
+				  id9( Programmation et <br> Applications interactives )
+				end
+				subgraph math2[Mathématiques]
+				  id10( Algèbre )
+				  id11( Analyse appliquée )
+				end
+	    end
+    end
+    subgraph le2 [L2]
+	    subgraph se3 [S3]
+		    subgraph sc2 [Sciences Cognitives]
+			    id12( Bases de neurobiologie et <br> neuroanatomie, <br> fondamentaux cognitifs et <br> apprentissage )
+			   end
+			  subgraph math3 [Mathématiques]
+				  id13( Séries et <br> intégrales multiples )
+				  id14( Fonctions de plusieurs <br> variables et optimisation )
+				end
+				subgraph proba2 [Probabilités]
+					id15( Probabilités #0040;A#0041; et <br> Statistique Inférentielle #0040;B#0041; )
+				end
+			end
+	    subgraph se4 [S4]
+			  subgraph sc3 [Sciences Cognitives]
+				  id16( Perception, action, <br> mémoire et <br> fonctions exécutives )
+				end
+				subgraph math4 [Mathématiques]
+					id17( Algèbre 2 #0040;A#0041; et <br> Espaces Euclidiens #0040;B#0041; )
+				end
+			end
+		end
+		subgraph le3 [L3]
+			subgraph se5 [S5]
+				subgraph sc4 [Sciences Cognitives]
+					id18( Neuropsychologie, <br> neuropathologie <br> et imagerie cérébrale )
+				end
+				subgraph math5 [Mathématiques]
+					id19( Méthodes Numériques <br> Linéaires et <br> Non linéaires )
+				end
+				subgraph info3 [Informatique]
+					id20( Apprentissage machine <br> et Imagerie numérique )
+				end
+			end
+		  subgraph se6 [S6]
+				subgraph sc5 [Sciences Cognitives]
+					id21( Psychophysiologie, <br> Neuroergonomie <br> / Traitement du Signal <br> et Neurosciences <br> Computationnelles ) 
+					id22( Connaissances et <br> représentations, <br> langage et TAL )
+				end
+				subgraph proba3 [Probabilités]
+					id23( Processus Aléatoires <br> et Séries Chronologiques </ul>)
+				end
+				subgraph math6 [Mathématiques]
+					id24( Systèmes dynamiques <br> et Modélisation <br> Biomathématique </ul>)
+				end
+		  end
+		end
+		subgraph mr1 [Master]
+			subgraph info4 [Informatique]
+				id25(Interfaces <br> Cerveau-Ordinateur)
+				id26(Réseaux de neurones)
+			end
+		end
+		id27@{shape: dbl-circ, label: Création d'une interface <br> cerveau ordinateur}
+		
+    %% clickable link
+	    %% S1
+	    click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27787"
+	    click id2 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    click id4 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38897"
+	    click id5 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38891"
+	    click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    click id8 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27784"
+	    %% S2
+	    click id9 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27565"
+	    click id10 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27954"
+	    click id11 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27957"
+	    %% S3
+	    click id12 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27994"
+	    click id13 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28115"
+	    %% S4
+	    click id14 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28035"
+	    click id15 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
+	    click id16 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77959"
+	    click id17 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77922"
+	    %% S5
+	    click id18 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77963"
+	    click id19 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77922"
+	    click id20 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77923"
+	    %%S6
+	    click id21 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77963"
+	    click id23 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77951"
+	    click id22 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77957"
+	    click id24 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77953"
+    %% knowledge transfer
+    info1 -- Bases <br> algorithmiques  --> id9
+    math1 -- Bases <br> algébriques --> id10
+    math1 -- Base de l'analyse <br> de fonctions --> id11
+    id1 -- Base du traitement <br> de l'information --> id12
+    id8 -- Loi uselles --> id15
+    id9 -- Fonctions courantes et <br> interface graphique --> id20
+    id12 -- Composants cognitifs <br> impliqués dans <br> une tâche --> id16
+    id11 -- Base de <br> l'integration --> id13
+    id11 -- Base de <br> la dérivation --> id14
+    id10 -- Méthodes de résolution <br> d'un système <br> linéaire --> id17
+    id14 -- Dérivation partielle --> id19
+    id17 -- Caractéristiques <br> d'un système <br> linéaire --> id19
+    id19 -- Méthodes de résolution <br> numérique --> id24
+    id24 -- Stabilité d'un système --> id26
+    id16 -- Processus cognitifs <br> à l'oeuvre <br> pour différentes <br> conditions --> id18
+    id18 -- Base de l'anayse <br> cérébrale <br> pathologique et <br> non pathologique --> id21
+    id13 -- Analyse avancée <br> d'intégrales et <br> de séries --> id21
+    info1 -- Base de la <br> logique --> id22
+    id22 -- Base du traitement <br> d'un réseau <br> de neurones <br> artficielles --> id26
+    id21 -- Interprétation des <br> résultats du réseau <br> de neurones --> id25
+    id26 -- Classification des <br> potentiels évoqués --> id25
+    id15 -- Variables aléatoires --> id23
+    id23 -- Processus stochastiques --> id26
+    id20 -- Transformations <br> des données --> id26
+    id25 -- Méthodes numériques <br> d'analyse des <br> potentiels évoqués --> id27
+    id21 -- Traitement du signal EGG --> id26
+```
