@@ -602,8 +602,8 @@ La création de son propre jeu reposera sur des thématiques de jeu déjà exist
 Ces demandes pourront se faire à l'écrit ou à l'oral. 
 Un modèle d'IA générative conçu par nos soins se chargera de rendre réalisable les requêtes des enfants. <br><br>
 
-Voici le schéma expériemntal que nous avons mis en place :
-
+Voici le schéma expérimental que nous avons mis en place :
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/1607ac928daf98dba9f2fa47868bb2716a949486/images/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
 
 
 [^7]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
