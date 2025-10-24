@@ -593,3 +593,17 @@ flowchart LR
     id25 -- Méthodes numériques <br> d'analyse des <br> potentiels évoqués --> id27
     id21 -- Traitement du signal EGG --> id26
 ```
+### Exemple
+On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^7].<br>
+Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfant pour vérifier leurs besoins.
+On test nos différentes versions auprès des enfants. <br> <br>
+On aboutie au final à une une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
+La création de son propre jeu reposera sur des thématiques de jeu déjà existantes qui seront personnalisées selon les demandes de l'enfant. 
+Ces demandes pourront se faire à l'écrit ou à l'oral. 
+Un modèle d'IA générative conçu par nos soins se chargera de rendre réalisable les requêtes des enfants. <br><br>
+
+Voici le schéma expériemntal que nous avons mis en place :
+
+
+
+[^7]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
