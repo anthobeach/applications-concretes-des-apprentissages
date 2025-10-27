@@ -609,17 +609,17 @@ Détails des étapes :
 <table>
 	<tr>
 		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg"/> </td>
-		<td> Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau)</td>
+		<td> Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau)</td>
 	</tr>
 	<tr>
 		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg"/> </td>
 		<td> Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
 			Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
 			<ul>
-				<li> <strong>Amplifier</strong> : les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique). </li>
-				<li> <strong>Filtrer</strong> : les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...). </li>
-				<li> <strong>Classifier</strong> : les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur. </li>
-				<li> <strong>Contrôler</strong> : le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles. </li>
+				<li> <strong>Amplifier</strong> : les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique) </li>
+				<li> <strong>Filtrer</strong> : les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...) </li>
+				<li> <strong>Classifier</strong> : les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur </li>
+				<li> <strong>Contrôler</strong> : le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles </li>
 			</ul>
 		</td>
 	</tr>
