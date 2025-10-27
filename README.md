@@ -595,7 +595,7 @@ flowchart LR
 ```
 ### Exemple
 On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^7].<br>
-Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfant pour vérifier leurs besoins.
+Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfants pour vérifier leurs besoins.
 On test nos différentes versions auprès des enfants. <br> <br>
 On aboutit au final à une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
 La création de son propre jeu reposera sur des thématiques de jeu déjà existantes qui seront personnalisées selon les demandes de l'enfant. 
@@ -603,7 +603,47 @@ Ces demandes pourront se faire à l'écrit ou à l'oral.
 Un modèle d'IA générative conçu par nos soins se chargera de rendre réalisable les requêtes des enfants. <br><br>
 
 Voici le schéma expérimental que nous avons mis en place :
-![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/1607ac928daf98dba9f2fa47868bb2716a949486/images/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/40a4b78eacc362212fe6ca78f41f8dadc661ab9e/images/Exemple%20d'ICO/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
+Détails des étapes : 
+
+<table>
+	<tr>
+		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg"/> </td>
+		<td> Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau)</td>
+	</tr>
+	<tr>
+		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg"/> </td>
+		<td> Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
+			Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
+			<ul>
+				<li> <strong>Amplifier</strong> : les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique). </li>
+				<li> <strong>Filtrer</strong> : les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...). </li>
+				<li> <strong>Classifier</strong> : les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur. </li>
+				<li> <strong>Contrôler</strong> : le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles. </li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%203.svg"/> </td>
+		<td> Une fois celles-ci établies, elles vont être transférées via internet. La boxe internet à son tour, va relayer les instructions. Elles vont avoir pour conséquence de modifier ou non le jeu. <br>
+			<strong>Exemples :</strong>
+			<ul>
+				<li>Si le joueur est moins attentif, des actions du personnage ne pourront pas être faites</li>
+				<li>Si le joueur est trop impusif, des actions du personnage seront ralenties</li>
+			</ul> 
+		</td>
+	</tr>
+	<tr>
+		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%204.svg"/> </td>
+		<td> Les retours pourront se faire sous forme de messages et de modifications du comportement du personnage.<br>
+			<strong>Exemples :</strong>
+			<ul>
+				<li>Pour un joueur moins attentif, un message motivant et un affichage de chaque effort de concentration qui améliore l'action du personnage</li>
+				<li>Pour un joueur trop impulsif, un message d'apaisement et un affichage de chaque effort pour se ramener à une concentration qui améliore l'efficacité du personnage</li>
+			</ul>
+		</td>
+	</tr>
+</table>
 
 
 [^7]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
