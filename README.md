@@ -598,9 +598,9 @@ On cherche à concevoir de nouvelles technologiques qui pourraient aider les enf
 Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfants pour vérifier leurs besoins.
 On test nos différentes versions auprès des enfants. <br> <br>
 On aboutit au final à une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
-La création de son propre jeu reposera sur des thématiques de jeu déjà existantes qui seront personnalisées selon les demandes de l'enfant. 
+La création de son propre jeu, reposera sur des thématiques de jeu déjà existantes, qui seront personnalisées selon les demandes de l'enfant. 
 Ces demandes pourront se faire à l'écrit ou à l'oral. 
-Un modèle d'IA générative conçu par nos soins se chargera de rendre réalisable les requêtes des enfants. <br><br>
+Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalisable les requêtes des enfants. <br><br>
 
 Voici le schéma expérimental que nous avons mis en place :
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/40a4b78eacc362212fe6ca78f41f8dadc661ab9e/images/Exemple%20d'ICO/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
