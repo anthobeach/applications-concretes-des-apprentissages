@@ -609,7 +609,7 @@ Détails des étapes :
 <table>
 	<tr>
 		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg"/> </td>
-		<td> Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau)</td>
+		<td> Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau).</td>
 	</tr>
 	<tr>
 		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg"/> </td>
