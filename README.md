@@ -446,7 +446,7 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 ## Interface Cerveau Ordinateur (ICO)
 > [!NOTE]
 > Sa réalisation nécessite des outils mathématiques, probabilistes et informatique mais également des connaissances spécifiques en sciences cognitives.<br>
-> Il permet d'améliorer ou d'explorer des fonctions du système nerveux central afin d'assurer principalement le contrôle et la communication.
+> Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^7] afin d'assurer principalement le contrôle et la communication.
 
 ### Diagramme des compétences à maitriser
 
@@ -594,7 +594,7 @@ flowchart LR
     id21 -- Traitement du signal EGG --> id26
 ```
 ### Exemple
-On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^7].<br>
+On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^8].<br>
 Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfants pour vérifier leurs besoins.
 On test nos différentes versions auprès des enfants. <br> <br>
 On aboutit au final à une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
@@ -645,5 +645,5 @@ Détails des étapes :
 	</tr>
 </table>
 
-
-[^7]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
+[^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
+[^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
