@@ -4,7 +4,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 ## Programmation de la Régression Linéaire Multiple (RLM)
 
 > [!NOTE]
-> Sa réalisation nécessite la manipulation d'outils Mathématiques, Statistiques et Informatique. <br>
+> Sa réalisation nécessite la manipulation d'outils mathématiques, statistique et Informatique. <br>
 > La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
 ### Diagramme des compétences à maitriser
@@ -13,7 +13,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 flowchart LR
 		subgraph le1[L1]
 				subgraph se1[S1]
-					subgraph stat1[Statistiques]
+					subgraph stat1[Statistique]
 				    id1(  Bases en probabilités <br> et statistique  )
 			    end
 			    subgraph info1[Informatique]
@@ -38,7 +38,7 @@ flowchart LR
     end
     subgraph le2 [L2]
 	    subgraph se4[S4]
-		    subgraph stat2[Statistiques]
+		    subgraph stat2[Statistique]
 			    id10(  Tests d'Hypothèses <br> et Régression  )
 			  end
 			end
@@ -66,18 +66,18 @@ flowchart LR
 	    %% S5
 	    click id11 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28193"
 	 %% knowledge transfer
-		 id1 -- Modélisation statistiques <br> d'une régression <br> linéaire simple --> id10
+		 id1 -- Modélisation Statistique <br> d'une régression <br> linéaire simple --> id10
 		 info1 -- Fondamentaux <br> algorithmiques  --> id9
 		 math1 -- Bases algébriques --> id8
 		 id8 -- Méthodes de résolution <br> d'un système linéaire --> id10
 		 id9 -- Fonctions courantes --> id11
-		 id10 -- Modélisation statistiques <br> d'une régression linéaire <br> multiple --> id11
+		 id10 -- Modélisation Statistique <br> d'une régression linéaire <br> multiple --> id11
 		 id11 -- Modélisation informatique <br> d'une régression linéaire <br> multiple --> id12
 ```
 
 ### Exemple 
 On cherche à déterminer le salaire d'un joueur de Basket en NBA en fonction de ses performances.<br>
-Pour cela, on possède un tableau regroupant quelques statistiques sur des joueurs. <br>
+Pour cela, on possède un tableau regroupant quelques Statistique sur des joueurs. <br>
 **Voici un extrait du tableau :** <br>
 
 | Nom           | Prénom     | Nationalité    | Moyenne de points par match  | Moyenne de rebonds captés par match  | Moyenne de passes décisives par match  | Score d'efficacité du joueur  | Salaire annuel (USD) |
@@ -96,10 +96,10 @@ Les variables permettant d'expliquer le salaire sont :
 - `Moyenne de passes décisives par match`
 - `Score d'efficacité du joueur`
 
-## Programmation de tests statistiques
+## Programmation de tests Statistique
 
 > [!NOTE]
-> Sa réalisation nécessite la manipulation d'outils Mathématiques, Probabilistes et Informatique. <br>
+> Sa réalisation nécessite la manipulation d'outils mathématiques, probabiliste et informatique. <br>
 > Le test statistisque permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
 
 ### Diagramme des compétences à maitriser
@@ -107,7 +107,7 @@ Les variables permettant d'expliquer le salaire sont :
 flowchart LR
 		subgraph le1 [L1]
 			subgraph se1 [S1]
-				subgraph statproba1[Statistiques & Probabilités]
+				subgraph statproba1[Probabilités & Statistique]
 					id1( Bases en probabilités <br> et statistique )
 				end
 				subgraph info1 [Informatique]
@@ -127,7 +127,7 @@ flowchart LR
 				subgraph info3 [Informatique]
 					id6( Techniques d'enquêtes ) 
 				end
-				subgraph statproba2 [Statistiques & Probabilités]
+				subgraph statproba2 [Probabilités & Statistique]
 					id7( Probabilités #0040;A#0041; et <br> Statistique Inférentielle #0040;B#0041; )
 				end
 			end
@@ -146,7 +146,7 @@ flowchart LR
 	    	click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
 	    
 	  %% kwnoledge transfer
-	  id1 -- Loi usuelles et <br> statistiques descriptives --> id7
+	  id1 -- Lois usuelles et <br> Statistique descriptives --> id7
 	  info1 -- Bases <br> algorithmiques --> id5
 	  id5 -- Fonctions <br> courantes --> id6
 	  id7 -- Théorie des tests <br> statistiques --> id8
@@ -292,7 +292,7 @@ La reine garde ainsi le contrôle sur la distribution génétique entre les gén
 Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et du Master.
 ## Ergonomie des applications
 > [!NOTE]
-> Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives[^1]. <br>
+> Sa mise en oeuvre nécessite l'utilisation d'outils informatique et de connaissances spécifiques en sciences cognitives[^1]. <br>
 > Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^2].
 [^1]: Elles sont impliquées dans la description, l'explication et quand cela le nécessite, dans la simulation des principales dispositions et capacités de l'esprit humain (comme le langage, le raisonnement, la perception, la coordination motrice, la planification, ...).
 [^2]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et de lui-même.
@@ -445,7 +445,7 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 
 ## Interface Cerveau Ordinateur (ICO)
 > [!NOTE]
-> Sa réalisation nécessite des outils mathématiques, probabilistes et informatique mais également des connaissances spécifiques en sciences cognitives.<br>
+> Sa réalisation nécessite des outils mathématiques, probabiliste et informatique mais également des connaissances spécifiques en sciences cognitives.<br>
 > Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^7] afin d'assurer principalement le contrôle et la communication.
 
 ### Diagramme des compétences à maitriser
@@ -551,9 +551,9 @@ flowchart LR
 	    %% S3
 	    click id12 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27994"
 	    click id13 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28115"
-	    %% S4
-	    click id14 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28035"
+		click id14 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28035"
 	    click id15 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
+	    %% S4
 	    click id16 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77959"
 	    click id17 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77922"
 	    %% S5
@@ -570,7 +570,7 @@ flowchart LR
     math1 -- Bases <br> algébriques --> id10
     math1 -- Base de l'analyse <br> de fonctions --> id11
     id1 -- Base du traitement <br> de l'information --> id12
-    id8 -- Loi uselles --> id15
+    id8 -- Lois uselles --> id15
     id9 -- Fonctions courantes et <br> interface graphique --> id20
     id12 -- Composants cognitifs <br> impliqués dans <br> une tâche --> id16
     id11 -- Base de <br> l'integration --> id13
@@ -648,9 +648,9 @@ Détails des étapes :
 [^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
 [^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
 
-## Gestion de projet
+## Gestion de projets
 > [!NOTE]
-> Sa mise en partique nécessite des outils mathématiques, statistiques et probabilistes ainsi que des connaissances spécifiques en économie-gestion.<br>
+> Sa mise en partique nécessite des outils mathématiques, informatique, statistique et probabiliste ainsi que des connaissances spécifiques en économie-gestion.<br>
 > Elle permet de définir un processus pour coordonner, gérer et planifier le développement d'un projet.
 
 ### Digramme des compétences à maitriser
@@ -661,10 +661,126 @@ flowchart LR
 				subgraph ecog1 [Eco-gestion]
 					id1(Introduction à la gestion des organisations et aux sciences cognitives)
 	            end
+				subgraph statproba1[Probabilités & Statistique]
+					id2(Bases en probabilités et statistique)
+				end
+				subgraph math1 [Mathématiques]
+         			id3(Outils mathématiques)
+					id4((Ou))
+					id5(Mathématiques générales)
+				end
+				subgraph info1 [Informatique]
+					id6(Informatique 1: programmation, bases de l'algorithmique et logique )
+				    id7((Ou))
+					id8( Informatique 2: algorithmique, structures de données élémentaires et introduction à la complexité )
+			    end
+			end
+			subgraph se2 [S2]
+				subgraph ecog2 [Eco-gestion]
+					id9(Introduction aux sciences économiques)
+				end
+				subgraph info2 [Informatique]
+				  	id10(Programmation et Applications interactives)
+				end
+				subgraph math2 [Mathématiques]
+					id11(Analyse appliquée)
+				end
 			end
 		end
-
+		subgraph le2 [L2]
+			subgraph se3 [S3]
+				subgraph statproba2 [Probabilités & Statistique]
+					id12(Probabilités #0040;A#0041; et Statistique Inférentielle #0040;B#0041;)
+				end
+				subgraph math3 [Mathématiques]
+				  id13(Séries et intégrales multiples)
+				end
+				subgraph info3 [Informatique]
+					id14(Techniques d'enquêtes) 
+				end
+				subgraph ecog3 [Eco-gestion]
+					id15(Techniques Comptables)
+				end
+			end
+			subgraph se4 [S4]
+				subgraph info4 [Informatique]
+					id16(Systèmes de gestion de bases de données, conception de sites web dynamiques)
+				end
+				subgraph stat1 [Statistique]
+					id17(Tests d'Hypothèses et Régression)
+				end
+				subgraph egcog4 [Eco-gestion]
+					id18(Initiation au Droit de l'entreprise)
+				end
+			end
+		end
+		subgraph le3 [L3]
+			subgraph se5 [S5]
+				subgraph ecog5 [Eco-gestion]
+					id19(Santé publique)
+				end
+			end
+			subgraph se6 [S6]
+				subgraph ecog6 [Eco-gestion]
+					id20(Gestion responsable des Ressources Humaines)
+				end
+				subgraph math4 [Mathématiques]
+					id21(Processus Aléatoires et Séries Chronologiques)
+				end
+			end
+		end
+		subgraph mr1 [Master]
+			subgraph ecog7 [Eco-gestion]
+				id22(Conception et développement)
+				id23(Analyse fonctionnelle et cahier des charges)
+			end
+		end
+		id24@{shape: dbl-circ, label: Mener un projet}
 		%% clickable links
 			%% S1
 			click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27787"
+			click id2 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27784"
+			click id3 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38891"
+	    	click id5 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+			click id6 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    	click id8 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38897"
+			%% S2
+			click id9 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27924"
+			click id10 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27565"
+			%% S3
+			click id11 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27957"
+			click id12 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
+			click id13 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28115"
+			click id14 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28124"
+			click id15 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=73949"
+			%% S4
+			click id16 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=52819"
+			click id17 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=73987"
+			click id18 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28032"
+			%% S5
+			click id19 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77929"
+			%% S6
+			click id20 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77947"
+			click id21 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77951"
+		%% knowledge tranfer
+		id1 -- Cadre d'une organisation --> id18
+		id2 -- Lois usuelles et statistiques descriptives --> id12
+		math1 -- Base de l'analyse de fonctions --> id11
+		info1 -- Bases algorithmiques --> id10
+		id9 -- Courants économiques --> id23
+		id10 -- Fonctions courantes --> id16
+		id11 -- Base de l'intégration --> id13
+		id12 -- Théorie des tests statistiques --> id17
+		id13 -- Analyse avancée d'intégrales et de séries --> id21
+		id14 -- Méthodes d'analyses quantitatives et qualitatives --> id22
+		id14 -- Méthodes d'investigations --> id19
+		id15 -- Calcule d'un budget --> id23
+		id16 -- Langage web et gestion de bases de données --> id22
+		id17 -- Modélisations statistiques --> id22
+		id18 -- Base de la réglementation des entreprises --> id20
+		id19 -- Politiques publiques et interventions adpatées --> id22
+		id20 -- Techniques de gestion du personnel --> id22
+		id21 -- Analyse avancée des évolutions au <br> cours du temps --> id23
+		id22 -- Processus du projet --> id24
+		id23 -- Préparation du projet --> id24
 ```
