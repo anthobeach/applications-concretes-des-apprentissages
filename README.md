@@ -647,3 +647,24 @@ Détails des étapes :
 
 [^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
 [^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
+
+## Gestion de projet
+> [!NOTE]
+> Sa mise en partique nécessite des outils mathématiques, statistiques et probabilistes ainsi que des connaissances spécifiques en économie-gestion.<br>
+> Elle permet de définir un processus pour coordonner, gérer et planifier le développement d'un projet.
+
+### Digramme des compétences à maitriser
+```mermaid
+flowchart LR
+		subgraph le1 [L1]
+			subgraph se1 [S1]
+				subgraph ecog1 [Eco-gestion]
+					id1(Introduction à la gestion des organisations et aux sciences cognitives)
+	            end
+			end
+		end
+
+		%% clickable links
+			%% S1
+			click id1 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27787"
+```
