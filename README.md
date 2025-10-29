@@ -784,3 +784,7 @@ flowchart LR
 		id22 -- Processus du projet --> id24
 		id23 -- Préparation du projet --> id24
 ```
+### Exemple
+Une entreprise fait appel à nos services pour lui développer un site web sur la vente de patisseries haut de gamme en ligne. <br>
+Voici une manière d'organiser ce projet : 
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e6c6f9aa7e5c0176b1d8fb67654026f3f5328bf0/images/Organisation%20d'un%20projet%20autour%20d'un%20site%20web.png)
