@@ -153,7 +153,7 @@ flowchart LR
 	  id6 -- Bases en langage <br> de programmation R --> id8
 ```
 ### Exemple
-On cherche à savoir s'il existe une différence générationnelle dans la reconnaissance de style musicaux différents. 
+On cherche à savoir s'il existe une différence générationnelle dans la reconnaissance de styles musicaux différents. 
 
 **Pour cela, on réalise un blindtest évalué selon 3 conditions :** 
 - Retrouver le titre de la musique parmi 54 références musicales
