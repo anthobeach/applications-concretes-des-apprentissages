@@ -271,7 +271,7 @@ flowchart LR
 ### Exemple
 
 On cherche à modéliser la transmission des gènes entre les abeilles. <br>
-Pour cela, on s'appuie sur l'illustration suivante : 
+Pour cela, on s'appuie sur l'illustration suivante : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/56ef74f67f3b49ac5c79f586eaf2535dfdceaa45/images/Asym%C3%A9tries%20g%C3%A9n%C3%A9tiques.jpg)
 
 Cette illustration est extraite d'un [article de revue](https://www.erudit.org/fr/revues/ms/2003-v19-n4-ms517/006497ar/) paru dans médecine sciences. 
@@ -374,7 +374,7 @@ flowchart LR
 Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^3].
 Elle souhaite que nous lui fassions un retour sur les différentes nouveautés qu'elle pourrait inclure pour compléter son offre déjà existante. <br> <br>
 Pour cela, nous commençons par analyser les applications déjà disponibles actuellement sur le marché. <br>
-Voici l'une des applications analysées : 
+Voici l'une des applications analysées : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/02d2556a58ccf17c1fe21c95667d6f4faa1dc052/images/Ecrans%20principaux%20de%20l'application%20Helpilepsy.png)
 
 Cette analyse se fait selon 3 axes : 
@@ -604,44 +604,32 @@ Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalis
 
 Voici le schéma expérimental que nous avons mis en place :
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/40a4b78eacc362212fe6ca78f41f8dadc661ab9e/images/Exemple%20d'ICO/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
-Détails des étapes : <br>
- <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg" width=6%/> 
-Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau).
-
-<table>
-	<tr>
-		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg"/> </td>
-		<td> Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
-			Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
-			<ul>
-				<li> <strong>Amplifier</strong> : les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique) </li>
-				<li> <strong>Filtrer</strong> : les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...) </li>
-				<li> <strong>Classifier</strong> : les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur </li>
-				<li> <strong>Contrôler</strong> : le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles </li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%203.svg"/> </td>
-		<td> Une fois celles-ci établies, elles vont être transférées via internet. La boxe internet à son tour, va relayer les instructions. Elles vont avoir pour conséquence de modifier ou non le jeu. <br>
-			<strong>Exemples :</strong>
-			<ul>
-				<li>Si le joueur est moins attentif, des actions du personnage ne pourront pas être faites</li>
-				<li>Si le joueur est trop impusif, des actions du personnage seront ralenties</li>
-			</ul> 
-		</td>
-	</tr>
-	<tr>
-		<td> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%204.svg"/> </td>
-		<td> Les retours pourront se faire sous forme de messages et de modifications du comportement du personnage.<br>
-			<strong>Exemples :</strong>
-			<ul>
-				<li>Pour un joueur moins attentif, un message motivant et un affichage de chaque effort de concentration qui améliore l'action du personnage</li>
-				<li>Pour un joueur trop impulsif, un message d'apaisement et un affichage de chaque effort pour se ramener à une concentration qui améliore l'efficacité du personnage</li>
-			</ul>
-		</td>
-	</tr>
-</table>
+Détails des étapes : <br> <br>
+ <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg" width=6%/> <br>
+Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par la casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau). <br> <br>
+<img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg" width=6%/> <br>
+Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
+Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
+<ul>
+	<li> <strong>Amplifier</strong> : les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique) </li>
+	<li> <strong>Filtrer</strong> : les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...) </li>
+	<li> <strong>Classifier</strong> : les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur </li>
+	<li> <strong>Contrôler</strong> : le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles </li>
+</ul>
+<img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%203.svg" width=6%/> 
+Une fois celles-ci établies, elles vont être transférées via internet. La boxe internet à son tour, va relayer les instructions. Elles vont avoir pour conséquence de modifier ou non le jeu. <br>
+<strong>Exemples :</strong>
+<ul>
+	<li>Si le joueur est moins attentif, des actions du personnage ne pourront pas être faites</li>
+	<li>Si le joueur est trop impusif, des actions du personnage seront ralenties</li>
+</ul> 
+<img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%204.svg" width=6%/>
+Les retours pourront se faire sous forme de messages et de modifications du comportement du personnage.<br>
+<strong>Exemples :</strong>
+<ul>
+	<li>Pour un joueur moins attentif, un message motivant et un affichage de chaque effort de concentration qui améliore l'action du personnage</li>
+	<li>Pour un joueur trop impulsif, un message d'apaisement et un affichage de chaque effort pour se ramener à une concentration qui améliore l'efficacité du personnage</li>
+</ul>
 
 [^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
 [^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
@@ -784,5 +772,5 @@ flowchart LR
 ```
 ### Exemple
 Une entreprise fait appel à nos services pour lui développer un site web sur la vente de patisseries haut de gamme en ligne. <br>
-Voici une manière d'organiser ce projet : 
+Voici une manière d'organiser ce projet : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e6c6f9aa7e5c0176b1d8fb67654026f3f5328bf0/images/Organisation%20d'un%20projet%20autour%20d'un%20site%20web.png)
