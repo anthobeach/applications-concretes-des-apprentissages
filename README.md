@@ -634,7 +634,7 @@ Les retours pourront se faire sous forme de messages et de modifications du comp
 [^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
 [^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
 
-## Gestion de projets
+## Gestion de projet
 > [!NOTE]
 > Sa mise en partique nécessite des outils mathématiques, informatique, statistique et probabiliste ainsi que des connaissances spécifiques en économie-gestion.<br>
 > Elle permet de définir un processus pour coordonner, gérer et planifier le développement d'un projet.
