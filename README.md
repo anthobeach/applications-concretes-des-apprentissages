@@ -77,7 +77,7 @@ flowchart LR
 
 ### Exemple 
 On cherche à déterminer le salaire d'un joueur de Basket en NBA en fonction de ses performances.<br>
-Pour cela, on possède un tableau regroupant quelques Statistique sur des joueurs. <br>
+Pour cela, on possède un tableau regroupant quelques statistiques sur des joueurs. <br>
 **Voici un extrait du tableau :** <br>
 
 | Nom           | Prénom     | Nationalité    | Moyenne de points par match  | Moyenne de rebonds captés par match  | Moyenne de passes décisives par match  | Score d'efficacité du joueur  | Salaire annuel (USD) |
