@@ -760,7 +760,7 @@ flowchart LR
 		id13 -- Analyse avancée d'intégrales et de séries --> id21
 		id14 -- Méthodes d'analyses quantitatives et qualitatives --> id22
 		id14 -- Méthodes d'investigations --> id19
-		id15 -- Calcule d'un budget --> id23
+		id15 -- Calcul d'un budget --> id23
 		id16 -- Langage web et gestion de bases de données --> id22
 		id17 -- Modélisations statistiques --> id22
 		id18 -- Base de la réglementation des entreprises --> id20
@@ -782,4 +782,4 @@ On commence tout d'abord par une présentation de l'équipe :
 - **Analyste de marché :** il est chargé de collecter, analyser et interpréter des données relatives à un marché, à la concurrence et aux consomateurs. Cela pour founir des recommandations stratégiques à une entreprise ou une organisation
 - **Chef de projet :** il est chargée de coordonner, piloter et gérer la réalisation de projets pour une entreprise ou une organisation, de la conception jusqu'au déploiement final
 - **UX designer :** de son nom développé User eXperience designer, il conçoit et optimise l'expérience utilisateur[^3] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs
-- **UI designer :** de son nom développé User Interface designer, il conçoit l'interface visuelle d'un produit numérique telle que, une application, un site web ou un logiciel. 
+- **UI designer :** de son nom développé User Interface designer, il conçoit l'interface visuelle d'un produit numérique telle que, une application, un site web ou un logiciel
