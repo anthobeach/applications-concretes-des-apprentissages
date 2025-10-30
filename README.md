@@ -774,3 +774,11 @@ flowchart LR
 Une entreprise fait appel à nos services pour lui développer un site web sur la vente de patisseries haut de gamme en ligne. <br>
 Voici une manière d'organiser ce projet : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e6c6f9aa7e5c0176b1d8fb67654026f3f5328bf0/images/Organisation%20d'un%20projet%20autour%20d'un%20site%20web.png)
+
+On commence tout d'abord par une présentation de l'équipe : 
+- **Développeur front-end :**  il est spécialisé dans la partie visible par l'utilisteur,  ce qui s'affiche à l'écran et les interactions (interfaces, graphismes, navigation, animations, ...)
+- **Développeur back-end :** il est spécialisé sur la partie invisible, la gestion des serveurs, des bases de données, la logique métier, la sécurité et les performances de l'application
+- **Développeur full stack :** il est capable à la fois de faire du développement front-end et back-end. Ce qui veut dire, qu'il maitrise toute le processus de développement technique, de la conception de l'interface utilisteur à la gestion des données et des serveurs.
+- **Analyste de marché :** il est chargé de collecter, analyser et interpréter des données relatives à un marché, à la concurrence et aux consomateurs. Cela pour founir des recommandations stratégiques à une entreprise ou une organisation
+- **Cheffe de projet :** elle est chargée de coordonner, piloter et gérer la réalisation de projets pour une entreprise ou une organisation, de la conception jusqu'au déploiement final
+- **UX designer :** de son nom développé User eXperience Designer, il conçoit et optimise l'expérience utilisateur[^3] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs
