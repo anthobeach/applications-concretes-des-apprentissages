@@ -773,7 +773,7 @@ flowchart LR
 ### Exemple
 Une entreprise fait appel à nos services pour lui développer un site web sur la vente de patisseries haut de gamme en ligne. <br>
 Voici une manière d'organiser ce projet : <br> <br>
-![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/c1b1beed97b6a77187b63366369aeeb602119bfc/images/Organisation%20d'un%20projet%20autour%20d'un%20site%20web.png)
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/4124b2d288989f1fc52279d67fca2605585d1e2d/images/Organisation%20d'un%20projet%20autour%20d'un%20site%20web.png)
 
 On commence tout d'abord par une présentation de l'équipe : 
 - **Développeur front-end :**  il est spécialisé dans la partie visible par l'utilisteur,  ce qui s'affiche à l'écran et les interactions (interfaces, graphismes, navigation, animations, ...)
@@ -788,3 +788,15 @@ On commence tout d'abord par une présentation de l'équipe :
 > Pour mieux comprendre cette planification, il faut savoir que chaque membre de l'équipe est affecté à plusieurs projets en même temps ayant des niveaux d'avancements hétérogènes.
 > L'entreprise employant des profils très spécifiques (souvent avec des rémunérations élevées), doit utiliser leurs compétences et leurs efficacités afin de rentabiliser ses investissements.
 > Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais résonnables.
+
+On va décortiquer les différentes étapes du projet : 
+1. Recherche et construction d'une première structuration du site web
+	- Elle s'étalle sur une semaine (du **15 au 19 janvier**)
+	- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première approche du système de vente (`Conception UML`)
+
+2. Elaboration de la base du site web
+   - Elle s'étalle sur une semaine (du **22 au 26 janvier**)
+   - Elle consiste à se baser sur la première structuration en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième approche du système de vente est alors établi (`Conception UML`)
+
+
+
