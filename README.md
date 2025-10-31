@@ -853,7 +853,7 @@ On va décortiquer les différentes étapes du projet :
 <summary><strong>2. Elaboration de la base du site web</strong></summary>	
 	
 - Elle s'étalle sur 1 semaine (du **22 au 26 janvier**)
-- Elle consiste à se baser sur la première ébauche en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
+- Elle consiste à se baser sur la première ébauche en l'améliorant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
 </details>
 
 <details>
@@ -878,5 +878,5 @@ On va décortiquer les différentes étapes du projet :
 <summary><strong>5. Finalisation du site web</strong></summary>
 
 - Elle s'étalle sur 3 semaines et demi (du **26 février au 21 mars**)
-- Elle consiste à faire les derniers réglagles avec l'assemblage de tous les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`)
+- Elle consiste à faire les derniers réglagles avec l'assemblage de toutes les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`)
 </details>
