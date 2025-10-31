@@ -790,13 +790,27 @@ On commence tout d'abord par une présentation de l'équipe :
 > Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais résonnables.
 
 On va décortiquer les différentes étapes du projet : 
-1. Recherche et construction d'une première structuration du site web
-	- Elle s'étalle sur une semaine (du **15 au 19 janvier**)
+1. Recherche et construction d'une première ébauche du site web
+	- Elle s'étalle sur 1 semaine (du **15 au 19 janvier**)
 	- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`)
 
 2. Elaboration de la base du site web
-   - Elle s'étalle sur une semaine (du **22 au 26 janvier**)
-   - Elle consiste à se baser sur la première structuration en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
+   - Elle s'étalle sur 1 semaine (du **22 au 26 janvier**)
+   - Elle consiste à se baser sur la première ébauche en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
+
+3. Conception d'une maquette du site web
+   - Elle s'étalle sur 1 semaine (du **29 janvier au 2 février**)
+   - Elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des patenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collborations et pour l'autre, externaliser certains services comme la commande à emporter
+
+4. Développement du site web
+   - Elle s'étalle sur 3 semaines (du **5 au 23 février**)
+   - Elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
+     Plus particulièrement :
+      - Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
+      - L'interface graphique (exemples : boutons, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier d'achat, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
+      - Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
+
+
 
 
 
