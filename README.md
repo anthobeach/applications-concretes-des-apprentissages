@@ -176,17 +176,22 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 > - Les étoiles qui sont présentes sur le graphique désignent le niveau de significativité de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. <br> 
 > - L'intervalle que vous pouvez observé au niveau de chaque bar qui représente la moyenne, est un intervalle de confiance. Il permet de savoir dans le cas de cet intervalle, si la valeur observée se trouve bien dans la moyenne des valeurs recueillies. En d'autres termes, si la valeur observée ne se trouve pas dans cet intervalle, cela veut dire qu'elle ne fait pas partie des valeurs majoritairement observées.
 
-**Pour la première hypothèse :**
+<details>
+	<summary> <strong> Pour la première hypothèse </strong>  </summary>
 On constate qu'il existe à chaque fois, une différence significative entre le groupe A et les autres groupes. <br> 
 Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes est rejetée. On admet donc l'hypothèse alternative globale (H1) selon laquelle le groupe A est différent des deux autres groupes. <br>
 Plus précisement, les différences sont plus marquées avec le groupe B que le groupe C. <br>
 On peut conclure que l'hypothèse est validée. <br> <br>
+</details>
 
-**Pour la deuxième hypothése :**
+<details>
+	<summary> <strong> Pour la deuxième hypothése  </strong> </summary>
 On constate alors, qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
 Pour le cas où la différence est présente, elle est sur le nombre de titres trouvés. <br>
 Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe B et C est admise. L'hypothèse alternative globale (H1) selon laquelle il existe une différence entre le groupe B et C est rejetée. <br>
 On peut conclure que l'hypothèse est validée.
+</details>
+
 
 ## Modélisation biomathématique
 > [!NOTE]
@@ -610,26 +615,40 @@ Cette première étape consiste à récupérer l'ensemble des informations qui s
 <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg" width=6%/> <br>
 Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
 Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
-<ul>
-	<li> <strong>Amplifier</strong> : les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique) </li>
-	<li> <strong>Filtrer</strong> : les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...) </li>
-	<li> <strong>Classifier</strong> : les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur </li>
-	<li> <strong>Contrôler</strong> : le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles </li>
-</ul>
+<details>
+	<summary><strong>Amplifier</strong></summary>
+Les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique).
+</details>
+<details>
+	<summary><strong>Filtrer</strong></summary>
+Les signaux électriques vont être épurés de manière à ne conserver que le signal qui est utile à exploiter (exemples : suppression des bruits parasites comme les petits mouvements de la tête, isoler une partie de la fréquence que l'on souhaite étudier, ...).
+</details>
+<details>
+	<summary><strong>Classifier</strong></summary>
+Les signaux alors obtenus vont être comparés à de précédents signaux afin de déduire le niveau de vigilance du joueur.
+</details>
+<details>
+	<summary><strong>Contrôler</strong></summary>
+Le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles.
+</details>
 <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%203.svg" width=6%/> 
 Une fois celles-ci établies, elles vont être transférées via internet. La boxe internet à son tour, va relayer les instructions. Elles vont avoir pour conséquence de modifier ou non le jeu. <br>
-<strong>Exemples :</strong>
+<details>
+	<summary><strong>Exemples</strong></summary>
 <ul>
 	<li>Si le joueur est moins attentif, des actions du personnage ne pourront pas être faites</li>
 	<li>Si le joueur est trop impusif, des actions du personnage seront ralenties</li>
 </ul> 
+</details>
 <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%204.svg" width=6%/>
 Les retours pourront se faire sous forme de messages et de modifications du comportement du personnage.<br>
-<strong>Exemples :</strong>
+<details>
+	<summary><strong>Exemples</strong></summary>
 <ul>
 	<li>Pour un joueur moins attentif, un message motivant et un affichage de chaque effort de concentration qui améliore l'action du personnage</li>
 	<li>Pour un joueur trop impulsif, un message d'apaisement et un affichage de chaque effort pour se ramener à une concentration qui améliore l'efficacité du personnage</li>
 </ul>
+</details>
 
 [^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
 [^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
@@ -775,14 +794,47 @@ Une entreprise fait appel à nos services pour lui développer un site web sur l
 Voici une manière d'organiser ce projet : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/4124b2d288989f1fc52279d67fca2605585d1e2d/images/Organisation%20d'un%20projet%20autour%20d'un%20site%20web.png)
 
-On commence tout d'abord par une présentation de l'équipe : 
-- **Développeur front-end :**  il est spécialisé dans la partie visible par l'utilisteur,  ce qui s'affiche à l'écran et les interactions (interfaces, graphismes, navigation, animations, ...)
-- **Développeur back-end :** il est spécialisé sur la partie invisible, la gestion des serveurs, des bases de données, la logique métier, la sécurité et les performances de l'application
-- **Développeur full stack :** il est capable à la fois de faire du développement front-end et back-end. Ce qui veut dire, qu'il maitrise toute le processus de développement technique, de la conception de l'interface utilisteur à la gestion des données et des serveurs.
-- **Analyste de marché :** il est chargé de collecter, analyser et interpréter des données relatives à un marché, à la concurrence et aux consomateurs. Cela pour founir des recommandations stratégiques à une entreprise ou une organisation
-- **Chef de projet :** il est chargée de coordonner, piloter et gérer la réalisation de projets pour une entreprise ou une organisation, de la conception jusqu'au déploiement final
-- **UX designer :** de son nom développé User eXperience designer, il conçoit et optimise l'expérience utilisateur[^3] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs
-- **UI designer :** de son nom développé User Interface designer, il conçoit l'interface visuelle d'un produit numérique telle que, une application, un site web ou un logiciel
+On commence tout d'abord par une présentation de l'équipe :
+<details>
+<summary><strong>Développeur front-end</strong></summary>
+	
+Il est spécialisé dans la partie visible par l'utilisteur,  ce qui s'affiche à l'écran et les interactions (interfaces, graphismes, navigation, animations, ...).
+</details>
+
+<details>
+<summary><strong>Développeur back-end</strong></summary>
+	
+Il est spécialisé sur la partie invisible, la gestion des serveurs, des bases de données, la logique métier, la sécurité et les performances de l'application.
+</details>
+
+<details>
+<summary><strong>Développeur full stack</strong></summary>
+	
+Il est capable à la fois de faire du développement front-end et back-end. Ce qui veut dire, qu'il maitrise toute le processus de développement technique, de la conception de l'interface utilisteur à la gestion des données et des serveurs.
+</details>
+
+<details>
+<summary><strong>Analyste de marché</strong></summary>
+	
+Il est chargé de collecter, analyser et interpréter des données relatives à un marché, à la concurrence et aux consomateurs. Cela pour founir des recommandations stratégiques à une entreprise ou une organisation.
+</details>
+
+<details>
+<summary><strong>Chef de projet</strong></summary>
+Il est chargée de coordonner, piloter et gérer la réalisation de projets pour une entreprise ou une organisation, de la conception jusqu'au déploiement final.
+</details>
+
+<details>
+<summary><strong>UX designer</strong></summary>
+	
+De son nom développé User eXperience designer, il conçoit et optimise l'expérience utilisateur[^3] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs.
+</details>
+
+<details>
+<summary><strong>UI designer</strong></summary>
+	
+De son nom développé User Interface designer, il conçoit l'interface visuelle d'un produit numérique telle que, une application, un site web ou un logiciel.
+</details>
 
 > [!IMPORTANT]
 > Pour mieux comprendre cette planification, il faut savoir que chaque membre de l'équipe est affecté à plusieurs projets en même temps ayant des niveaux d'avancements hétérogènes.
@@ -790,27 +842,35 @@ On commence tout d'abord par une présentation de l'équipe :
 > Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais résonnables.
 
 On va décortiquer les différentes étapes du projet : 
-1. Recherche et construction d'une première ébauche du site web
-	- Elle s'étalle sur 1 semaine (du **15 au 19 janvier**)
-	- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`)
+<details>
+<summary><strong>1. Recherche et construction d'une première ébauche du site web</strong></summary>	
+	
+- Elle s'étalle sur 1 semaine (du **15 au 19 janvier**)
+- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`)
+</details>
 
-2. Elaboration de la base du site web
-   - Elle s'étalle sur 1 semaine (du **22 au 26 janvier**)
-   - Elle consiste à se baser sur la première ébauche en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
+<details>
+<summary><strong>2. Elaboration de la base du site web</strong></summary>	
+	
+- Elle s'étalle sur 1 semaine (du **22 au 26 janvier**)
+- Elle consiste à se baser sur la première ébauche en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
+</details>
 
-3. Conception d'une maquette du site web
-   - Elle s'étalle sur 1 semaine (du **29 janvier au 2 février**)
-   - Elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des patenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collborations et pour l'autre, externaliser certains services comme la commande à emporter
+<details>
+<summary><strong>3. Conception d'une maquette du site web</strong></summary>	
 
-4. Développement du site web
-   - Elle s'étalle sur 3 semaines (du **5 au 23 février**)
-   - Elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
-     Plus particulièrement :
-      - Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
-      - L'interface graphique (exemples : boutons, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier d'achat, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
-      - Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
+- Elle s'étalle sur 1 semaine (du **29 janvier au 2 février**)
+- Elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des patenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collborations et pour l'autre, externaliser certains services comme la commande à emporter
+</details>
 
-
-
-
+<details>
+<summary><strong>4. Développement du site web</strong></summary>
+	
+- Elle s'étalle sur 3 semaines (du **5 au 23 février**)
+- Elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
+  Plus particulièrement :
+	- Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
+	- L'interface graphique (exemples : boutons, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier d'achat, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
+	- Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
+</details>
 
