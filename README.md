@@ -783,3 +783,8 @@ On commence tout d'abord par une présentation de l'équipe :
 - **Chef de projet :** il est chargée de coordonner, piloter et gérer la réalisation de projets pour une entreprise ou une organisation, de la conception jusqu'au déploiement final
 - **UX designer :** de son nom développé User eXperience designer, il conçoit et optimise l'expérience utilisateur[^3] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs
 - **UI designer :** de son nom développé User Interface designer, il conçoit l'interface visuelle d'un produit numérique telle que, une application, un site web ou un logiciel
+
+> [!IMPORTANT]
+> Pour mieux comprendre cette planification, il faut savoir que chaque membre de l'équipe est affecté à plusieurs projets en même temps ayant des niveaux d'avancements hétérogènes.
+> L'entreprise employant des profils très spécifiques (souvent avec des rémunérations élevées), doit utiliser leurs compétences et leurs efficacités afin de rentabiliser ses investissements.
+> Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais résonnables.
