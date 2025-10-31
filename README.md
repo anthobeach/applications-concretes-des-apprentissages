@@ -874,3 +874,9 @@ On va décortiquer les différentes étapes du projet :
 	- Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
 </details>
 
+<details>
+<summary><strong>5. Finalisation du site web</strong></summary>
+
+- Elle s'étalle sur 3 semaines et demi (du **26 février au 21 mars**)
+- Elle consiste à faire les derniers réglagles avec l'assemblage de tous les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`)
+</details>
