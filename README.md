@@ -839,7 +839,7 @@ De son nom développé User Interface designer, il conçoit l'interface visuelle
 > [!IMPORTANT]
 > Pour mieux comprendre cette planification, il faut savoir que chaque membre de l'équipe est affecté à plusieurs projets en même temps ayant des niveaux d'avancements hétérogènes.
 > L'entreprise employant des profils très spécifiques (souvent avec des rémunérations élevées), doit utiliser leurs compétences et leurs efficacités afin de rentabiliser ses investissements.
-> Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais résonnables.
+> Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais raisonnables.
 
 On va décortiquer les différentes étapes du projet : 
 <details>
