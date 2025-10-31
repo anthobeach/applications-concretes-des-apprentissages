@@ -792,11 +792,11 @@ On commence tout d'abord par une présentation de l'équipe :
 On va décortiquer les différentes étapes du projet : 
 1. Recherche et construction d'une première structuration du site web
 	- Elle s'étalle sur une semaine (du **15 au 19 janvier**)
-	- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première approche du système de vente (`Conception UML`)
+	- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`)
 
 2. Elaboration de la base du site web
    - Elle s'étalle sur une semaine (du **22 au 26 janvier**)
-   - Elle consiste à se baser sur la première structuration en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième approche du système de vente est alors établi (`Conception UML`)
+   - Elle consiste à se baser sur la première structuration en la rafinant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
 
 
 
