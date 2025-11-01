@@ -4,7 +4,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 ## Programmation de la Régression Linéaire Multiple (RLM)
 
 > [!NOTE]
-> Sa réalisation nécessite la manipulation d'outils mathématiques, statistique et informatique. <br>
+> Sa réalisation nécessite l'utilisation d'outils mathématiques, statistique et informatique. <br>
 > La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
 ### Diagramme des compétences clés à mobiliser
@@ -99,7 +99,7 @@ Les variables permettant d'expliquer le salaire sont :
 ## Programmation de tests statistiques
 
 > [!NOTE]
-> Sa réalisation nécessite la manipulation d'outils mathématiques, statistique, probabiliste et informatique. <br>
+> Sa réalisation nécessite l'utilisation d'outils mathématiques, statistique, probabiliste et informatique. <br>
 > Le test statistisque permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
 
 ### Diagramme des compétences clés à mobiliser
