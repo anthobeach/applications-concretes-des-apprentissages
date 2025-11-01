@@ -146,7 +146,7 @@ flowchart LR
 	    	click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
 	    
 	  %% kwnoledge transfer
-	  id1 -- Lois usuelles et <br> statistique descriptives --> id7
+	  id1 -- Lois usuelles et <br> statistiques descriptives --> id7
 	  info1 -- Bases <br> algorithmiques --> id5
 	  id5 -- Fonctions <br> courantes --> id6
 	  id7 -- Théorie des tests <br> statistiques --> id8
