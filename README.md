@@ -987,6 +987,5 @@ Le service RH va envoyer à chacun des salariés, un questionnaire pour définir
 Il va ensuite demander au statisticien de faire des analyses. Le service RH rédigera un rapport en se basant sur les conclusions du statisticien. Ce rapport sera remis directement au PDG. <br> <br>
 
 Voici un extrait du rapport : <br> <br>
-![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/5ac8c85b7af702fadd3322dfada6e2dd7097d4e3/images/Equipements%20majoritairement%20demand%C3%A9s%20par%20les%20salari%C3%A9s.png)
-
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/1b79320e74a0228049bed2ce5e6bd8ce6c09c7c4/images/Equipements%20majoritairement%20demand%C3%A9s%20par%20les%20salari%C3%A9s.png)
 
