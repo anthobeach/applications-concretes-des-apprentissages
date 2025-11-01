@@ -610,9 +610,10 @@ Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalis
 Voici le schéma expérimental que nous avons mis en place :
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/40a4b78eacc362212fe6ca78f41f8dadc661ab9e/images/Exemple%20d'ICO/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
 Détails des étapes : <br> <br>
- <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg" width=6%/> <br>
-Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par le casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau). <br> <br>
-<img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg" width=6%/> <br>
+<p> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg" width=6%/>
+Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par le casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau).</p> <br>
+
+<p><img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg" width=6%/>
 Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
 Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
 <details>
@@ -630,8 +631,9 @@ Les signaux alors obtenus vont être comparés à de précédents signaux afin d
 <details>
 	<summary><strong>Contrôler</strong></summary>
 Le niveau de vigilance déduit après ces traitements et l'analyse des actions du joueur, vont amener à l'application de règles.
-</details>
-<img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%203.svg" width=6%/> 
+</details></p><br>
+
+<p><img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%203.svg" width=6%/>
 Une fois celles-ci établies, elles vont être transférées via internet. La boxe internet à son tour, va relayer les instructions. Elles vont avoir pour conséquence de modifier ou non le jeu. <br>
 <details>
 	<summary><strong>Exemples</strong></summary>
@@ -640,7 +642,9 @@ Une fois celles-ci établies, elles vont être transférées via internet. La bo
 	<li>Si le joueur est trop impusif, des actions du personnage seront ralenties</li>
 </ul> 
 </details>
-<img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%204.svg" width=6%/>
+</p><br>
+
+<p><img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%204.svg" width=6%/>
 Les retours pourront se faire sous forme de messages et de modifications du comportement du personnage.<br>
 <details>
 	<summary><strong>Exemples</strong></summary>
@@ -649,6 +653,7 @@ Les retours pourront se faire sous forme de messages et de modifications du comp
 	<li>Pour un joueur trop impulsif, un message d'apaisement et un affichage de chaque effort pour se ramener à une concentration qui améliore l'efficacité du personnage</li>
 </ul>
 </details>
+</p>
 
 [^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
 [^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
