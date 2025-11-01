@@ -1022,3 +1022,5 @@ D’autres équipements plus secondairement donnés élargissent l’environneme
 - Table basse 
 - Enceinte bluetooth
 </details>
+
+En résumé, les salariés souhaitent être davantage équipé en matériel principalement pour leur confort personnel mais aussi, pour avoir des espaces de détentes communs. 
