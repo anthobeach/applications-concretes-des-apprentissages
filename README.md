@@ -4,7 +4,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 ## Programmation de la Régression Linéaire Multiple (RLM)
 
 > [!NOTE]
-> Sa réalisation nécessite la manipulation d'outils mathématiques, statistique et Informatique. <br>
+> Sa réalisation nécessite la manipulation d'outils mathématiques, statistique et informatique. <br>
 > La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
 ### Diagramme des compétences à maitriser
@@ -96,10 +96,10 @@ Les variables permettant d'expliquer le salaire sont :
 - `Moyenne de passes décisives par match`
 - `Score d'efficacité du joueur`
 
-## Programmation de tests Statistique
+## Programmation de tests statistiques
 
 > [!NOTE]
-> Sa réalisation nécessite la manipulation d'outils mathématiques, probabiliste et informatique. <br>
+> Sa réalisation nécessite la manipulation d'outils mathématiques, statistique, probabiliste et informatique. <br>
 > Le test statistisque permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
 
 ### Diagramme des compétences à maitriser
@@ -173,7 +173,7 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e2add63b6ea2e6db4582e3b94bdc17bc916d6207/images/moyenne_de%20scores_au_blindtest.svg)
 
 > [!IMPORTANT]
-> - Les étoiles qui sont présentes sur le graphique désignent le niveau de significativité de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. <br> 
+> - Les étoiles qui sont présentes sur le graphique désignent le niveau de significativité de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. Dernier point, ns signifie non significatif, c'est à dire qu'aucun lien statistique significatif n'a été trouvé entre les groupes d'après le test effectué. <br> 
 > - L'intervalle que vous pouvez observé au niveau de chaque bar qui représente la moyenne, est un intervalle de confiance. Il permet de savoir dans le cas de cet intervalle, si la valeur observée se trouve bien dans la moyenne des valeurs recueillies. En d'autres termes, si la valeur observée ne se trouve pas dans cet intervalle, cela veut dire qu'elle ne fait pas partie des valeurs majoritairement observées.
 
 <details>
