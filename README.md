@@ -978,4 +978,15 @@ flowchart LR
 	id25 -- Préparation des données --> id27
 	id26 -- Découverte de caractéristiques cachés --> id27
 ```
+### Exemple
+Un PDG d'entreprise souhaite consulter ses salariés afin d'améliorer leur confort de travail. 
+Il espère ainsi, fidéliser mieux ses salariés pour baisser son turn-over. <br> <br>
+
+Pour cela, il fait appel à son service des ressources humaines (RH) afin de mener une étude sur le sujet.
+Le service RH va envoyer à chacun des salariés, un questionnaire pour définir leurs besoins. 
+Il va ensuite demander au statisticien de faire des analyses. Le service RH rédigera un rapport en se basant sur les conclusions du statisticien. Ce rapport sera remis directement au PDG. <br> <br>
+
+Voici un extrait du rapport : <br> <br>
+![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/5ac8c85b7af702fadd3322dfada6e2dd7097d4e3/images/Equipements%20majoritairement%20demand%C3%A9s%20par%20les%20salari%C3%A9s.png)
+
 
