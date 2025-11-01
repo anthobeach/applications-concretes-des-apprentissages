@@ -995,3 +995,30 @@ Ce graphique est ce que l’on appelle un nuage de mots. Il permet d’afficher 
 > Plus le mot est gros, plus sa fréquence est élevée.<br>
 > Les mots ayant la même couleur appartiennent à la même catégorie.
 
+Les équipements les plus donnés par les salariés sont : 
+- **Support d’écran**
+- **Repose-pieds**
+- **Casque antibruit**
+
+Ils concernent le matériel pour agir directement sur la pénibilité du travail.<br>
+D’autres équipements plus secondairement donnés élargissent l’environnement du travail : 
+<details>
+<summary><strong>Aménagement du bureau</strong></summary>
+
+- Coussin lombaire
+- Lampe de bureau
+- Chargeur sans fil
+- Tapis ergonomique
+- Plange verte
+</details>
+
+<details>
+<summary><strong>Aménagement du cadre de travail</strong></summary>
+
+- Fauteuil de détente
+- Machine à café 
+- Diffuseur d’huiles essentielles 
+- Fontaine à eau 
+- Table basse 
+- Enceinte bluetooth
+</details>
