@@ -146,7 +146,7 @@ flowchart LR
 	    	click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
 	    
 	  %% kwnoledge transfer
-	  id1 -- Lois usuelles et <br> Statistique descriptives --> id7
+	  id1 -- Lois usuelles et <br> statistique descriptives --> id7
 	  info1 -- Bases <br> algorithmiques --> id5
 	  id5 -- Fonctions <br> courantes --> id6
 	  id7 -- Théorie des tests <br> statistiques --> id8
@@ -264,7 +264,7 @@ flowchart LR
     %% knowledge transfer
     math1 -- Base de l'analyse <br> des fonctions --> id7
     math1 -- Bases algébriques --> id8
-    info1 -- Fondamentaux <br> algorithmiques  --> id9
+    info1 -- Bases <br> algorithmiques  --> id9
     id7 -- Dérivations de fonctions --> id10
     id7 -- Suites numériques --> id12
     id8 -- Méthodes de résolution <br> d'un système linéaire --> id12
