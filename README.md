@@ -66,12 +66,12 @@ flowchart LR
 	    %% S5
 	    click id11 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28193"
 	 %% knowledge transfer
-		 id1 -- Modélisation Statistique <br> d'une régression <br> linéaire simple --> id10
+		 id1 -- Modélisation statistique <br> d'une régression <br> linéaire simple --> id10
 		 info1 -- Fondamentaux <br> algorithmiques  --> id9
 		 math1 -- Bases algébriques --> id8
 		 id8 -- Méthodes de résolution <br> d'un système linéaire --> id10
 		 id9 -- Fonctions courantes --> id11
-		 id10 -- Modélisation Statistique <br> d'une régression linéaire <br> multiple --> id11
+		 id10 -- Modélisation statistique <br> d'une régression linéaire <br> multiple --> id11
 		 id11 -- Modélisation informatique <br> d'une régression linéaire <br> multiple --> id12
 ```
 
@@ -460,14 +460,14 @@ flowchart LR
 		subgraph le1 [L1]
 			subgraph se1 [S1]
 				subgraph sc1 [Sciences Cognitives]
-			    id1( Introduction à la gestion <br> des organisations et <br> aux sciences cognitives )
-		    end
-		    subgraph info1 [Informatique]
-				id2( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
-			    id3((Ou))
-				id4( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
-			  end
-			  subgraph math1 [Mathématiques]
+					id1( Introduction à la gestion <br> des organisations et <br> aux sciences cognitives )
+				end
+			    subgraph info1 [Informatique]
+					id2( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
+				    id3((Ou))
+					id4( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
+				end
+				subgraph math1 [Mathématiques]
 					id5( Outils mathématiques )
 					id6((Ou))
 					id7( Mathématiques générales )
@@ -475,30 +475,30 @@ flowchart LR
 				subgraph proba1[Probabilités]
 					id8( Bases en probabilités <br> et statistique )
 				end
-	    end
-	    subgraph se2[S2]
-			  subgraph info2 [Informatique]
+	    	end
+		    subgraph se2[S2]
+				subgraph info2 [Informatique]
 				  id9( Programmation et <br> Applications interactives )
 				end
 				subgraph math2[Mathématiques]
-				  id10( Algèbre )
-				  id11( Analyse appliquée )
+					id10( Algèbre )
+					id11( Analyse appliquée )
 				end
-	    end
-    end
-    subgraph le2 [L2]
-	    subgraph se3 [S3]
-		    subgraph sc2 [Sciences Cognitives]
-			    id12( Bases de neurobiologie et <br> neuroanatomie, <br> fondamentaux cognitifs et <br> apprentissage )
-			   end
-			  subgraph math3 [Mathématiques]
-				  id13( Séries et <br> intégrales multiples )
-				  id14( Fonctions de plusieurs <br> variables et optimisation )
+	    	end
+    	end
+	    subgraph le2 [L2]
+		    subgraph se3 [S3]
+			    subgraph sc2 [Sciences Cognitives]
+				    id12( Bases de neurobiologie et <br> neuroanatomie, <br> fondamentaux cognitifs et <br> apprentissage )
+				   end
+				  subgraph math3 [Mathématiques]
+					  id13( Séries et <br> intégrales multiples )
+					  id14( Fonctions de plusieurs <br> variables et optimisation )
+					end
+					subgraph proba2 [Probabilités]
+						id15( Probabilités #0040;A#0041; et <br> Statistique Inférentielle #0040;B#0041; )
+					end
 				end
-				subgraph proba2 [Probabilités]
-					id15( Probabilités #0040;A#0041; et <br> Statistique Inférentielle #0040;B#0041; )
-				end
-			end
 	    subgraph se4 [S4]
 			  subgraph sc3 [Sciences Cognitives]
 				  id16( Perception, action, <br> mémoire et <br> fonctions exécutives )
@@ -519,7 +519,7 @@ flowchart LR
 				subgraph info3 [Informatique]
 					id20( Apprentissage machine <br> et Imagerie numérique )
 				end
-			end
+		end
 		  subgraph se6 [S6]
 				subgraph sc5 [Sciences Cognitives]
 					id21( Psychophysiologie, <br> Neuroergonomie <br> / Traitement du Signal <br> et Neurosciences <br> Computationnelles ) 
@@ -885,3 +885,97 @@ On va décortiquer les différentes étapes du projet :
 - Elle s'étalle sur 3 semaines et demi (du **26 février au 21 mars**)
 - Elle consiste à faire les derniers réglagles avec l'assemblage de toutes les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`)
 </details>
+
+## Analyse de données
+> [!NOTE]
+> Sa réalisation nécessite des outils mathématiques, informatique, statistique et probabiliste.<br>
+> Elle permet de transformer des données brutes en informations exploitables (exemples : graphique, tableau, ...).
+
+### Diagramme des compétences à maitriser
+```mermaid
+flowchart LR
+		subgraph le1 [L1]
+			subgraph se1 [S1]
+			    subgraph info1 [Informatique]
+					id2( Informatique 1: <br> programmation, <br> bases de l'algorithmique et <br> logique )
+				    id3((Ou))
+					id4( Informatique 2: <br> algorithmique, <br> structures de données <br> élémentaires et introduction <br> à la complexité )
+				end
+				subgraph math1 [Mathématiques]
+					id5( Outils mathématiques )
+					id6((Ou))
+					id7( Mathématiques générales )
+				end
+				subgraph probastat1[Probabilités & statistique]
+					id8( Bases en probabilités <br> et statistique )
+				end
+			end
+		    subgraph se2[S2]
+				subgraph info2 [Informatique]
+					id9( Programmation et <br> Applications interactives )
+				end
+				subgraph math2[Mathématiques]
+				  id10( Algèbre )
+				end
+	    	end
+		end
+	    subgraph le2 [L2]
+		    subgraph se3 [S3]
+				subgraph probastat2 [Probabilités & statistique]
+					id15( Probabilités #0040;A#0041; et <br> Statistique Inférentielle #0040;B#0041; )
+				end
+			end
+			subgraph se4 [S4]
+				subgraph probastat3 [Probabilités & Statistique]
+						id17(Tests d'Hypothèses et Régression)
+				end
+			end
+		end
+		subgraph le3 [L3]
+			subgraph se5 [S5]
+				subgraph info3 [Informatique]
+					id20( Apprentissage machine <br> et Imagerie numérique )
+					id21( Sciences des données )
+				end
+			end
+		end
+		subgraph mr1 [Master]
+			subgraph info4 [Informatique]
+				id25(Traitement de données)
+				id26(Fouille de données)
+			end
+		end
+		id27@{shape: dbl-circ, label: Mise en place d'une analyse des données}
+		
+    %% clickable link
+	    %% S1
+	    click id2 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    click id4 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38897"
+	    click id5 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38891"
+	    click id7 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=38892"
+	    click id8 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27784"
+	    %% S2
+	    click id9 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27565"
+	    click id10 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27954"
+	    %% S3
+	    click id15 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=27578"
+	    %% S4
+	    click id17 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=73987"
+	    %% S5
+	    click id20 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=77923"
+		click id21 "https://formations.u-bordeaux.fr/details-formation?type=enseignement&id=28193"
+    %% knowledge transfer
+    info1 -- Bases <br> algorithmiques  --> id9
+    math1 -- Bases <br> algébriques --> id10
+    id8 -- Lois uselles et statistiques descriptives --> id15
+    id9 -- Fonctions courantes --> id20
+    id10 -- Méthodes de résolution <br> d'un système <br> linéaire --> id20
+	id15 -- Variables aléatoires et théories des tests statistiques --> id17
+	id17 -- Modélisations statistiques et probabilistes --> id21
+    id20 -- Transformations <br> des données --> id25 
+	id20 -- Techniques d'extraction de caractéristiques --> id26
+	id21 -- Modélisations numériques --> id27
+	id25 -- Préparation des données --> id27
+	id26 -- Découverte de caractéristiques cachés --> id27
+```
+
