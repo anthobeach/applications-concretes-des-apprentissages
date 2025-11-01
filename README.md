@@ -76,7 +76,7 @@ flowchart LR
 ```
 
 ### Exemple 
-On cherche à déterminer le salaire d'un joueur de Basket en NBA en fonction de ses performances.<br>
+On cherche à déterminer le salaire d'un joueur de basket en NBA en fonction de ses performances.<br>
 Pour cela, on possède un tableau regroupant quelques statistiques sur des joueurs. <br>
 **Voici un extrait du tableau :** <br>
 
