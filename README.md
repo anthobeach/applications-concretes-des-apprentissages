@@ -860,7 +860,7 @@ On va décortiquer les différentes étapes du projet :
 <summary><strong>3. Conception d'une maquette du site web</strong></summary>	
 
 - Elle s'étalle sur 1 semaine (du **29 janvier au 2 février**)
-- Elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des patenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collborations et pour l'autre, externaliser certains services comme la commande à emporter
+- Elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des partenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collaborations et pour l'autre, externaliser certains services comme la commande à emporter
 </details>
 
 <details>
@@ -870,7 +870,7 @@ On va décortiquer les différentes étapes du projet :
 - Elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
   Plus particulièrement :
 	- Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
-	- L'interface graphique (exemples : boutons, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier d'achat, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
+	- L'interface graphique (exemples : bouton, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
 	- Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
 </details>
 
