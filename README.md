@@ -7,7 +7,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 > Sa réalisation nécessite la manipulation d'outils mathématiques, statistique et informatique. <br>
 > La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
-### Diagramme des compétences à maitriser
+### Diagramme des compétences clés à mobiliser
 
 ```mermaid
 flowchart LR
@@ -102,7 +102,7 @@ Les variables permettant d'expliquer le salaire sont :
 > Sa réalisation nécessite la manipulation d'outils mathématiques, statistique, probabiliste et informatique. <br>
 > Le test statistisque permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
 
-### Diagramme des compétences à maitriser
+### Diagramme des compétences clés à mobiliser
 ```mermaid
 flowchart LR
 		subgraph le1 [L1]
@@ -453,7 +453,7 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 > Sa réalisation nécessite des outils mathématiques, probabiliste et informatique mais également des connaissances spécifiques en sciences cognitives[^1].<br>
 > Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^7] afin d'assurer principalement le contrôle et la communication.
 
-### Diagramme des compétences à maitriser
+### Diagramme des compétences clés à mobiliser
 
 ```mermaid
 flowchart LR
@@ -891,7 +891,7 @@ On va décortiquer les différentes étapes du projet :
 > Sa réalisation nécessite des outils mathématiques, informatique, statistique et probabiliste.<br>
 > Elle permet de transformer des données brutes en informations exploitables (exemples : graphique, tableau, ...).
 
-### Diagramme des compétences à maitriser
+### Diagramme des compétences clés à mobiliser
 ```mermaid
 flowchart LR
 		subgraph le1 [L1]
