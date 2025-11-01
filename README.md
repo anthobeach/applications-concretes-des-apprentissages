@@ -450,7 +450,7 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 
 ## Interface Cerveau Ordinateur (ICO)
 > [!NOTE]
-> Sa réalisation nécessite des outils mathématiques, probabiliste et informatique mais également des connaissances spécifiques en sciences cognitives.<br>
+> Sa réalisation nécessite des outils mathématiques, probabiliste et informatique mais également des connaissances spécifiques en sciences cognitives[^1].<br>
 > Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^7] afin d'assurer principalement le contrôle et la communication.
 
 ### Diagramme des compétences à maitriser
