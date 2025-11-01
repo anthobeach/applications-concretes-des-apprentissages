@@ -100,7 +100,7 @@ Les variables permettant d'expliquer le salaire sont :
 
 > [!NOTE]
 > Sa réalisation nécessite l'utilisation d'outils mathématiques, statistique, probabiliste et informatique. <br>
-> Le test statistisque permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
+> Le test statistique permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
 
 ### Diagramme des compétences clés à mobiliser
 ```mermaid
