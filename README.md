@@ -989,3 +989,9 @@ Il va ensuite demander au statisticien de faire des analyses. Le service RH réd
 Voici un extrait du rapport : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/1b79320e74a0228049bed2ce5e6bd8ce6c09c7c4/images/Equipements%20majoritairement%20demand%C3%A9s%20par%20les%20salari%C3%A9s.png)
 
+Ce graphique est ce que l’on appelle un nuage de mots. Il permet d’afficher synthétiquement les mots qui ressortent le plus. Dans notre cas, ce sont les équipements supplémentaires que les salariés souhaitent avoir. 
+
+> [!TIP]
+> Plus le mot est gros, plus sa fréquence est élevée.<br>
+> Les mots ayant la même couleur appartiennent à la même catégorie.
+
