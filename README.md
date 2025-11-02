@@ -7,7 +7,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 > Sa réalisation nécessite l'utilisation d'outils mathématiques, statistiques et informatiques. <br>
 > La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
-### Diagramme des compétences clés à mobiliser
+### Diagramme des connaissances et compétences clés à mobiliser
 
 ```mermaid
 flowchart LR
@@ -102,7 +102,7 @@ Les variables permettant d'expliquer le salaire sont :
 > Sa réalisation nécessite l'utilisation d'outils mathématiques, statistiques, probabilistes et informatiques. <br>
 > Le test statistique permet de trancher entre une hypothèse nulle (H<sub>0</sub>)[^1] et une ou des hypothèses alternatives (H<sub>A</sub>)[^2].
 
-### Diagramme des compétences clés à mobiliser
+### Diagramme des connaissances et compétences clés à mobiliser
 ```mermaid
 flowchart LR
 		subgraph le1 [L1]
@@ -173,34 +173,34 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e2add63b6ea2e6db4582e3b94bdc17bc916d6207/images/moyenne_de%20scores_au_blindtest.svg)
 
 > [!TIP]
-> - Les étoiles qui sont présentes sur le graphique désignent le niveau de signification[^3] de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. Dernier point, ns signifie non significatif, c'est à dire qu'aucun lien statistique significatif n'a été trouvé entre les groupes d'après le test effectué. <br> 
+> - Les étoiles qui sont présentes sur le graphique désignent le niveau de signification[^3] de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. Dernier point, *ns* signifie non significatif, c'est à dire qu'aucun lien statistique significatif n'a été trouvé entre les groupes d'après le test effectué. <br> 
 > - L'intervalle que vous pouvez observé au niveau de chaque bar qui représente la moyenne, est un intervalle de confiance. Il permet de savoir dans le cas de cet intervalle, si la valeur observée se trouve bien dans la moyenne des valeurs recueillies. En d'autres termes, si la valeur observée ne se trouve pas dans cet intervalle, cela veut dire qu'elle ne fait pas partie des valeurs majoritairement observées.
 
 <details>
 	<summary> <strong> Pour la première hypothèse </strong>  </summary>
 On constate qu'il existe à chaque fois, une différence significative entre le groupe A et les autres groupes. <br> 
-Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes est rejetée. On admet donc l'hypothèse alternative globale (H1) selon laquelle le groupe A est différent des deux autres groupes. <br>
+Ce qui veut dire que l'hypothèse selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes (H<sub>0</sub>) est rejetée. On admet donc l'hypothèse selon laquelle le groupe A est différent des deux autres groupes (H<sub>1</sub>). <br>
 Plus précisement, les différences sont plus marquées avec le groupe B que le groupe C. <br>
-On peut conclure que l'hypothèse est validée. <br> <br>
+On peut conclure que la première hypothèse est validée. <br> <br>
 </details>
 
 <details>
-	<summary> <strong> Pour la deuxième hypothése  </strong> </summary>
+	<summary> <strong> Pour la deuxième hypothèse  </strong> </summary>
 On constate alors, qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
 Pour le cas où la différence est présente, elle est sur le nombre de titres trouvés. <br>
-Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe pas de différence entre le groupe B et C est admise. L'hypothèse alternative globale (H1) selon laquelle il existe une différence entre le groupe B et C est rejetée. <br>
-On peut conclure que l'hypothèse est validée.
+Ce qui veut dire que l'hypothèse selon laquelle il n'existe pas de différence entre le groupe B et C (H<sub>0</sub>) est admise. L'hypothèse selon laquelle il existe une différence entre le groupe B et C (H<sub>1</sub>) est rejetée. <br>
+On peut conclure que la deuxième hypothèse est validée.
 </details>
 
-[^1]: C'est l'hypothèse qui stipule que l'on ne peut pas établir de lien (exemple : l'employé n'a pas fraudé (H<sub>0</sub>)).
+[^1]: Elle stipule que l'on ne peut pas mettre en évidence un lien (exemple : l'employé n'a pas fraudé (H<sub>0</sub>)).
 [^2]: Cela désigne une ou des hypothèses qui stipulent qu'il existe un lien (exemple : l'employé à détourner des fonds de l'entreprise (H<sub>1</sub>), l'employé à placé de l'argent dans des paradis fiscaux (H<sub>2</sub>)).
 [^3]: C'est la valeur seuil à partir de laquelle on peut qualifier la force du lien.
 
 ## Modélisation biomathématique
 > [!NOTE]
 > Sa réalisation nécessite l'utilisation d'outils mathématiques, informatiques et de notions en biologie. <br>
-> Elle permet de représenter des phénomènes biologiques sous une forme quantifiable afin d'extraitre des informations complémentaires.
-### Digramme des compétences à maitriser
+> Elle permet de représenter des phénomènes biologiques sous une forme quantifiable afin d'extraire des informations complémentaires.
+### Diagramme des connaissances et compétences clés à mobiliser
 
 ```mermaid
 flowchart LR
@@ -279,19 +279,20 @@ flowchart LR
 ### Exemple
 
 On cherche à modéliser la transmission des gènes entre les abeilles. <br>
-Pour cela, on s'appuie sur l'illustration suivante : <br> <br>
+Pour cela, on s'appuie sur l'illustration suivante : 
+
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/56ef74f67f3b49ac5c79f586eaf2535dfdceaa45/images/Asym%C3%A9tries%20g%C3%A9n%C3%A9tiques.jpg)
 
 Cette illustration est extraite d'un [article de revue](https://www.erudit.org/fr/revues/ms/2003-v19-n4-ms517/006497ar/) paru dans médecine sciences. 
 
 Comme on peut le voir sur cette illustration, la reine transmet la moitié de ses chromosomes alors que le mâle lui, la totalité. 
 Cela s'explique par le fait que le mâle est issu directement de la reine (pas de fécondation de l'oeuf par un mâle). Il ne possède que pour partrimoine génétique, la moitié des gènes de la reine. 
-Ses chromosomes sont tous identfiques. 
-Ce qui a pour conséquence, une diversité génétique plus restreinte entre les mâles issu d'une même reine. <br> <br>
+Ses chromosomes sont tous identiques. Ce qui a pour conséquence, une diversité génétique plus restreinte entre les mâles issu d'une même reine. 
 
-On constacte que par ce procédé, on a des différences de transmission de gènes qui conduisent alors à des liens de parenté différencié selon le sexe.
+On constacte que par ce procédé, il y a des différences de transmission de gènes qui conduisent alors, à des liens de parenté selon le sexe.
 En prennant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). 
-La *Fille b* a même plus de gènes en commun avec son neveu (37,5 %) que son propre frère (25 %). <br> <br>
+La *Fille b* a même plus de gènes en commun avec son neveu (37,5 %) que son propre frère (25 %). 
+
 Ce phénomène que l'on appelle la dillution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. 
 En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendance (leurs soeurs) que de la leur. 
 La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protége son statut de reine. 
@@ -304,7 +305,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 > Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^5].
 [^4]: Elles sont impliquées dans la description, l'explication et quand cela le nécessite, dans la simulation des principales dispositions et capacités de l'esprit humain (comme le langage, le raisonnement, la perception, la coordination motrice, la planification, ...).
 [^5]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et de lui-même.
-### Digramme des compétences à maitriser
+### Diagramme des connaissances et compétences clés à mobiliser
 
 ```mermaid
 flowchart LR
@@ -381,8 +382,9 @@ flowchart LR
 
 Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^6].
 Elle souhaite que nous lui fassions un retour sur les différentes nouveautés qu'elle pourrait inclure pour compléter son offre déjà existante. <br> <br>
-Pour cela, nous commençons par analyser les applications déjà disponibles actuellement sur le marché. <br>
-Voici l'une des applications analysées : <br> <br>
+Pour cela, nous commençons par analyser les applications déjà disponibles sur le marché. <br>
+Voici l'une des applications analysées : 
+
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/02d2556a58ccf17c1fe21c95667d6f4faa1dc052/images/Ecrans%20principaux%20de%20l'application%20Helpilepsy.png)
 
 Cette analyse se fait selon 3 axes : 
@@ -456,7 +458,7 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 > Sa réalisation nécessite des outils mathématiques, probabilistes et informatiques mais également des connaissances spécifiques en sciences cognitives[^4].<br>
 > Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^10] afin d'assurer principalement le contrôle et la communication.
 
-### Diagramme des compétences clés à mobiliser
+### Diagramme des connaissances et compétences clés à mobiliser
 
 ```mermaid
 flowchart LR
@@ -602,19 +604,20 @@ flowchart LR
     id21 -- Traitement du signal EGG --> id26
 ```
 ### Exemple
-On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^11].<br>
+On cherche à concevoir de nouvelles technologies qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^11].<br>
 Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfants pour vérifier leurs besoins.
-On test nos différentes versions auprès des enfants. <br> <br>
+On test nos différentes versions auprès des enfants. 
+
 On aboutit au final à une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
 La création de son propre jeu, reposera sur des thématiques de jeu déjà existantes, qui seront personnalisées selon les demandes de l'enfant. 
-Ces demandes pourront se faire à l'écrit ou à l'oral. 
-Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalisable les requêtes des enfants. <br><br>
+Ces demandes pourront se faire à l'écrit ou à l'oral. Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalisable les requêtes des enfants. 
 
 Voici le schéma expérimental que nous avons mis en place :
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/40a4b78eacc362212fe6ca78f41f8dadc661ab9e/images/Exemple%20d'ICO/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
-Détails des étapes : <br> <br>
+Détails des étapes :
+
 <p> <img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%201.svg" width=6%/>
-Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par le casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau).</p> <br>
+Cette première étape consiste à récupérer l'ensemble des informations qui serviront à analyser le comportement (c'est à dire, ce qui est transmis par la tablette, représenté par la flèche <strong> Etat du jeu </strong> sur notre schéma ; exemples : temps pour réaliser une action, choix des équipements, réussite de la mission,  ...) et le cerveau (c'est à dire, ce qui est transmis par le casque, représenté par la flèche <strong> Activité électrique du cerveau </strong> sur notre schéma ; exemple : signaux électriques de différentes régions du cerveau) de l'enfant.</p> <br>
 
 <p><img src="https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/441de921469e738f53728654a5dff620e0484be5/images/Exemple%20d'ICO/Etape%202.svg" width=6%/>
 Les informations ainsi recueillies par la box internet vont être envoyées en temps réel sur un serveur qui va traiter les données. <br> 
@@ -640,10 +643,10 @@ Le niveau de vigilance déduit après ces traitements et l'analyse des actions d
 Une fois celles-ci établies, elles vont être transférées via internet. La boxe internet à son tour, va relayer les instructions. Elles vont avoir pour conséquence de modifier ou non le jeu. <br>
 <details>
 	<summary><strong>Exemples</strong></summary>
-<ul>
-	<li>Si le joueur est moins attentif, des actions du personnage ne pourront pas être faites</li>
-	<li>Si le joueur est trop impusif, des actions du personnage seront ralenties</li>
-</ul> 
+
+**Si le joueur est moins attentif :** des actions du personnage ne pourront pas être faites.
+
+**Si le joueur est trop impusif :** des actions du personnage seront ralenties.
 </details>
 </p><br>
 
@@ -651,10 +654,10 @@ Une fois celles-ci établies, elles vont être transférées via internet. La bo
 Les retours pourront se faire sous forme de messages et de modifications du comportement du personnage.<br>
 <details>
 	<summary><strong>Exemples</strong></summary>
-<ul>
-	<li>Pour un joueur moins attentif, un message motivant et un affichage de chaque effort de concentration qui améliore l'action du personnage</li>
-	<li>Pour un joueur trop impulsif, un message d'apaisement et un affichage de chaque effort pour se ramener à une concentration qui améliore l'efficacité du personnage</li>
-</ul>
+
+**Pour un joueur moins attentif :** un message motivant, un affichage de chaque effort de concentration et une amélioration de l'action du personnage.
+
+**Pour un joueur trop impulsif :** un message d'apaisement, un affichage de chaque effort pour se ramener à une concentration optimale et une amélioration de l'efficacité du personnage.
 </details>
 </p>
 
@@ -666,7 +669,7 @@ Les retours pourront se faire sous forme de messages et de modifications du comp
 > Sa mise en partique nécessite des outils mathématiques, informatiques, statistiques et probabilistes ainsi que, des connaissances spécifiques en économie-gestion.<br>
 > Elle permet de définir un processus pour coordonner, gérer et planifier le développement d'un projet.
 
-### Digramme des compétences à maitriser
+### Diagramme des connaissances et compétences clés à mobiliser
 ```mermaid
 flowchart LR
 		subgraph le1 [L1]
@@ -894,7 +897,7 @@ On va décortiquer les différentes étapes du projet :
 > Sa réalisation nécessite des outils mathématiques, informatiques, statistiques et probabilistes.<br>
 > Elle permet de transformer des données brutes en informations exploitables (exemples : graphique, tableau, ...).
 
-### Diagramme des compétences clés à mobiliser
+### Diagramme des connaissances et compétences clés à mobiliser
 ```mermaid
 flowchart LR
 		subgraph le1 [L1]
