@@ -174,7 +174,7 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 
 > [!TIP]
 > - Les étoiles qui sont présentes sur le graphique désignent le niveau de signification[^3] de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. Dernier point, *ns* signifie non significatif, c'est à dire qu'aucun lien statistique significatif n'a été trouvé entre les groupes d'après le test effectué. <br> 
-> - L'intervalle que vous pouvez observé au niveau de chaque bar qui représente la moyenne, est un intervalle de confiance. Il permet de savoir dans le cas de cet intervalle, si la valeur observée se trouve bien dans la moyenne des valeurs recueillies. En d'autres termes, si la valeur observée ne se trouve pas dans cet intervalle, cela veut dire qu'elle ne fait pas partie des valeurs majoritairement observées.
+> - L'intervalle que vous pouvez observée au niveau de chaque bar qui représente la moyenne, est un intervalle de confiance. Il permet de savoir dans le cas de cet intervalle, si la valeur observée se trouve bien dans la moyenne des valeurs recueillies. En d'autres termes, si la valeur observée ne se trouve pas dans cet intervalle, cela veut dire qu'elle ne fait pas partie des valeurs majoritairement observées.
 
 <details>
 	<summary> <strong> Pour la première hypothèse </strong>  </summary>
