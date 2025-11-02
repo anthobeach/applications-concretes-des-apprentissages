@@ -186,7 +186,7 @@ On peut conclure que la première hypothèse est validée. <br> <br>
 
 <details>
 	<summary> <strong> Pour la deuxième hypothèse  </strong> </summary>
-On constate alors, qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
+On constate alors qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
 Pour le cas où la différence est présente, elle est sur le nombre de titres trouvés. <br>
 Ce qui veut dire que l'hypothèse selon laquelle il n'existe pas de différence entre le groupe B et C (H<sub>0</sub>) est admise. L'hypothèse selon laquelle il existe une différence entre le groupe B et C (H<sub>1</sub>) est rejetée. <br>
 On peut conclure que la deuxième hypothèse est validée.
