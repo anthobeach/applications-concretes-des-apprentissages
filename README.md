@@ -180,7 +180,7 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 	<summary> <strong> Pour la première hypothèse </strong>  </summary>
 On constate qu'il existe à chaque fois, une différence significative entre le groupe A et les autres groupes. <br> 
 Ce qui veut dire que l'hypothèse selon laquelle il n'existe pas de différence entre le groupe A et les deux autres groupes (H<sub>0</sub>) est rejetée. On admet donc l'hypothèse selon laquelle le groupe A est différent des deux autres groupes (H<sub>1</sub>). <br>
-Plus précisement, les différences sont plus marquées avec le groupe B que le groupe C. <br>
+Plus précisément, les différences sont plus marquées avec le groupe B que le groupe C. <br>
 On peut conclure que la première hypothèse est validée. <br> <br>
 </details>
 
