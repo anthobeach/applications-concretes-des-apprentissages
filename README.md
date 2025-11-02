@@ -1,4 +1,4 @@
-# Des applications déjà possibles en Licence MIASHS
+atqu# Des applications déjà possibles en Licence MIASHS
 Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence.
 
 ## Programmation de la Régression Linéaire Multiple (RLM)
