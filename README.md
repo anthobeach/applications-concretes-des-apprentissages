@@ -4,7 +4,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 ## Programmation de la Régression Linéaire Multiple (RLM)
 
 > [!NOTE]
-> Sa réalisation nécessite l'utilisation d'outils mathématiques, statistique et informatique. <br>
+> Sa réalisation nécessite l'utilisation d'outils mathématiques, statistiques et informatiques. <br>
 > La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
 
 ### Diagramme des compétences clés à mobiliser
@@ -99,7 +99,7 @@ Les variables permettant d'expliquer le salaire sont :
 ## Programmation de tests statistiques
 
 > [!NOTE]
-> Sa réalisation nécessite l'utilisation d'outils mathématiques, statistique, probabiliste et informatique. <br>
+> Sa réalisation nécessite l'utilisation d'outils mathématiques, statistiques, probabilistes et informatiques. <br>
 > Le test statistique permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
 
 ### Diagramme des compétences clés à mobiliser
@@ -195,7 +195,7 @@ On peut conclure que l'hypothèse est validée.
 
 ## Modélisation biomathématique
 > [!NOTE]
-> Sa réalisation nécessite l'utilisation d'outils mathématiques, informatique et de notions en biologie. <br>
+> Sa réalisation nécessite l'utilisation d'outils mathématiques, informatiques et de notions en biologie. <br>
 > Elle permet de représenter des phénomènes biologiques sous une forme quantifiable afin d'extraitre des informations complémentaires.
 ### Digramme des compétences à maitriser
 
@@ -297,7 +297,7 @@ La reine garde ainsi le contrôle sur la distribution génétique entre les gén
 Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et du Master.
 ## Ergonomie des applications
 > [!NOTE]
-> Sa mise en oeuvre nécessite l'utilisation d'outils informatique et de connaissances spécifiques en sciences cognitives[^1]. <br>
+> Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives[^1]. <br>
 > Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^2].
 [^1]: Elles sont impliquées dans la description, l'explication et quand cela le nécessite, dans la simulation des principales dispositions et capacités de l'esprit humain (comme le langage, le raisonnement, la perception, la coordination motrice, la planification, ...).
 [^2]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et de lui-même.
@@ -450,7 +450,7 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 
 ## Interface Cerveau Ordinateur (ICO)
 > [!NOTE]
-> Sa réalisation nécessite des outils mathématiques, probabiliste et informatique mais également des connaissances spécifiques en sciences cognitives[^1].<br>
+> Sa réalisation nécessite des outils mathématiques, probabilistes et informatiques mais également des connaissances spécifiques en sciences cognitives[^1].<br>
 > Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^7] afin d'assurer principalement le contrôle et la communication.
 
 ### Diagramme des compétences clés à mobiliser
@@ -660,7 +660,7 @@ Les retours pourront se faire sous forme de messages et de modifications du comp
 
 ## Gestion de projet
 > [!NOTE]
-> Sa mise en partique nécessite des outils mathématiques, informatique, statistique et probabiliste ainsi que des connaissances spécifiques en économie-gestion.<br>
+> Sa mise en partique nécessite des outils mathématiques, informatiques, statistiques et probabilistes ainsi que, des connaissances spécifiques en économie-gestion.<br>
 > Elle permet de définir un processus pour coordonner, gérer et planifier le développement d'un projet.
 
 ### Digramme des compétences à maitriser
@@ -888,7 +888,7 @@ On va décortiquer les différentes étapes du projet :
 
 ## Analyse de données
 > [!NOTE]
-> Sa réalisation nécessite des outils mathématiques, informatique, statistique et probabiliste.<br>
+> Sa réalisation nécessite des outils mathématiques, informatiques, statistiques et probabilistes.<br>
 > Elle permet de transformer des données brutes en informations exploitables (exemples : graphique, tableau, ...).
 
 ### Diagramme des compétences clés à mobiliser
