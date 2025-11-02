@@ -856,40 +856,45 @@ On va décortiquer les différentes étapes du projet :
 <details>
 <summary><strong>1. Recherche et construction d'une première ébauche du site web</strong></summary>	
 	
-- Elle s'étalle sur 1 semaine (du **15 au 19 janvier**)
-- Elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`)
+**Durée :** elle s'étalle sur 1 semaine (du **15 au 19 janvier**).
+
+**Description :** elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`).
 </details>
 
 <details>
 <summary><strong>2. Elaboration de la base du site web</strong></summary>	
 	
-- Elle s'étalle sur 1 semaine (du **22 au 26 janvier**)
-- Elle consiste à se baser sur la première ébauche en l'améliorant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`)
+**Durée :** elle s'étalle sur 1 semaine (du **22 au 26 janvier**).
+
+**Description :** elle consiste à se baser sur la première ébauche en l'améliorant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`).
 </details>
 
 <details>
 <summary><strong>3. Conception d'une maquette du site web</strong></summary>	
 
-- Elle s'étalle sur 1 semaine (du **29 janvier au 2 février**)
-- Elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des partenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collaborations et pour l'autre, externaliser certains services comme la commande à emporter
+**Durée :** elle s'étalle sur 1 semaine (du **29 janvier au 2 février**).
+
+**Description :** elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des partenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collaborations et pour l'autre, externaliser certains services comme la commande à emporter.
 </details>
 
 <details>
 <summary><strong>4. Développement du site web</strong></summary>
 	
-- Elle s'étalle sur 3 semaines (du **5 au 23 février**)
-- Elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
-  Plus particulièrement :
-	- Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
-	- L'interface graphique (exemples : bouton, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
-	- Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
+**Durée** : elle s'étalle sur 3 semaines (du **5 au 23 février**).
+
+**Description :** elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
+Plus particulièrement :
+- Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
+- L'interface graphique (exemples : bouton, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
+- Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
 </details>
 
 <details>
 <summary><strong>5. Finalisation du site web</strong></summary>
 
-- Elle s'étalle sur 3 semaines et demi (du **26 février au 21 mars**)
-- Elle consiste à faire les derniers réglagles avec l'assemblage de toutes les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`)
+**Durée** : elle s'étalle sur 3 semaines et demi (du **26 février au 21 mars**).
+
+**Description :** elle consiste à faire les derniers réglagles avec l'assemblage de toutes les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`).
 </details>
 
 ## Analyse de données
@@ -986,19 +991,20 @@ flowchart LR
 ```
 ### Exemple
 Un PDG d'entreprise souhaite consulter ses salariés afin d'améliorer leur confort de travail. 
-Il espère ainsi, fidéliser mieux ses salariés pour baisser son turn-over. <br> <br>
+Il espère ainsi, fidéliser mieux ses salariés pour baisser son turn-over. 
 
 Pour cela, il fait appel à son service des ressources humaines (RH) afin de mener une étude sur le sujet.
 Le service RH va envoyer à chacun des salariés, un questionnaire pour définir leurs besoins. 
-Il va ensuite demander au statisticien de faire des analyses. Le service RH rédigera un rapport en se basant sur les conclusions du statisticien. Ce rapport sera remis directement au PDG. <br> <br>
+Il va ensuite demander au statisticien de faire des analyses. Le service RH rédigera un rapport en se basant sur les conclusions du statisticien. Ce rapport sera remis directement au PDG. 
 
-Voici un extrait du rapport : <br> <br>
+Voici un extrait du rapport :
+
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/1b79320e74a0228049bed2ce5e6bd8ce6c09c7c4/images/Equipements%20majoritairement%20demand%C3%A9s%20par%20les%20salari%C3%A9s.png)
 
 Ce graphique est ce que l’on appelle un nuage de mots. Il permet d’afficher synthétiquement les mots qui ressortent le plus. Dans notre cas, ce sont les équipements supplémentaires que les salariés souhaitent avoir. 
 
 > [!TIP]
-> Plus le mot est gros, plus sa fréquence est élevée.<br>
+> Plus le mot est gros, plus sa fréquence est élevée. Les mots ayant une taille similaire, on une fréquence qu'il est également.<br>
 > Les mots ayant la même couleur appartiennent à la même catégorie.
 
 Les équipements les plus donnés par les salariés sont : 
