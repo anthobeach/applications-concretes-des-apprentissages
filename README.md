@@ -157,8 +157,8 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 
 **Pour cela, on réalise un blindtest évalué selon 3 conditions :** 
 - Retrouver le titre de la musique parmi 54 références musicales
-- Retrouver le nom de l'artiste parmi 50 références musciales
-- Retrouver le titre et le nom de l'artiste parmi 80 références musciales
+- Retrouver le nom de l'artiste parmi 50 références musicales
+- Retrouver le titre et le nom de l'artiste parmi 80 références musicales
 
 **3 groupes sont constitués :** 
 - Groupe A (Etudiant)
