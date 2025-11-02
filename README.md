@@ -100,7 +100,7 @@ Les variables permettant d'expliquer le salaire sont :
 
 > [!NOTE]
 > Sa réalisation nécessite l'utilisation d'outils mathématiques, statistiques, probabilistes et informatiques. <br>
-> Le test statistique permet de trancher entre une hypothèse nulle (H0) et une hypothèse alternative (H1).
+> Le test statistique permet de trancher entre une hypothèse nulle (H<sub>0</sub>)[^1] et une ou des hypothèses alternatives (H<sub>A</sub>)[^2].
 
 ### Diagramme des compétences clés à mobiliser
 ```mermaid
@@ -173,7 +173,7 @@ On cherche à savoir s'il existe une différence générationnelle dans la recon
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/e2add63b6ea2e6db4582e3b94bdc17bc916d6207/images/moyenne_de%20scores_au_blindtest.svg)
 
 > [!TIP]
-> - Les étoiles qui sont présentes sur le graphique désignent le niveau de significativité de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. Dernier point, ns signifie non significatif, c'est à dire qu'aucun lien statistique significatif n'a été trouvé entre les groupes d'après le test effectué. <br> 
+> - Les étoiles qui sont présentes sur le graphique désignent le niveau de signification[^3] de la comparaison d'un groupe par rapport à un autre. En d'autres termes, plus il y a d'étoiles, plus la différence est forte entre les deux groupes comparés. Dernier point, ns signifie non significatif, c'est à dire qu'aucun lien statistique significatif n'a été trouvé entre les groupes d'après le test effectué. <br> 
 > - L'intervalle que vous pouvez observé au niveau de chaque bar qui représente la moyenne, est un intervalle de confiance. Il permet de savoir dans le cas de cet intervalle, si la valeur observée se trouve bien dans la moyenne des valeurs recueillies. En d'autres termes, si la valeur observée ne se trouve pas dans cet intervalle, cela veut dire qu'elle ne fait pas partie des valeurs majoritairement observées.
 
 <details>
@@ -192,6 +192,9 @@ Ce qui veut dire que l'hypothèse nulle globale (H0) selon laquelle il n'existe 
 On peut conclure que l'hypothèse est validée.
 </details>
 
+[^1]: C'est l'hypothèse qui stipule que l'on ne peut pas établir de lien (exemple : l'employé n'a pas fraudé (H<sub>0</sub>)).
+[^2]: Cela désigne une ou des hypothèses qui stipulent qu'il existe un lien (exemple : l'employé à détourner des fonds de l'entreprise (H<sub>1</sub>), l'employé à placé de l'argent dans des paradis fiscaux (H<sub>2</sub>)).
+[^3]: C'est la valeur seuil à partir de laquelle on peut qualifier la force du lien.
 
 ## Modélisation biomathématique
 > [!NOTE]
@@ -297,10 +300,10 @@ La reine garde ainsi le contrôle sur la distribution génétique entre les gén
 Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et du Master.
 ## Ergonomie des applications
 > [!NOTE]
-> Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives[^1]. <br>
-> Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^2].
-[^1]: Elles sont impliquées dans la description, l'explication et quand cela le nécessite, dans la simulation des principales dispositions et capacités de l'esprit humain (comme le langage, le raisonnement, la perception, la coordination motrice, la planification, ...).
-[^2]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et de lui-même.
+> Sa mise en oeuvre nécessite l'utilisation d'outils informatiques et de connaissances spécifiques en sciences cognitives[^4]. <br>
+> Elle permet d'évaluer et d'améliorer les interactions entre les utilisateurs et les ordinateurs, en se basant sur la cognition humaine[^5].
+[^4]: Elles sont impliquées dans la description, l'explication et quand cela le nécessite, dans la simulation des principales dispositions et capacités de l'esprit humain (comme le langage, le raisonnement, la perception, la coordination motrice, la planification, ...).
+[^5]: C'est l'ensemble des processus psychologiques et physiologiques qui permettent à un individu d'avoir une connaissance de son environnement et de lui-même.
 ### Digramme des compétences à maitriser
 
 ```mermaid
@@ -376,16 +379,16 @@ flowchart LR
 ```
 ### Exemple
 
-Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^3].
+Une entreprise fait appel à nos services afin d'améliorer son expérience utilisateur[^6].
 Elle souhaite que nous lui fassions un retour sur les différentes nouveautés qu'elle pourrait inclure pour compléter son offre déjà existante. <br> <br>
 Pour cela, nous commençons par analyser les applications déjà disponibles actuellement sur le marché. <br>
 Voici l'une des applications analysées : <br> <br>
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/02d2556a58ccf17c1fe21c95667d6f4faa1dc052/images/Ecrans%20principaux%20de%20l'application%20Helpilepsy.png)
 
 Cette analyse se fait selon 3 axes : 
-- Le design[^4]
-- La navigation[^5]
-- Les fonctionnalités[^6]
+- Le design[^7]
+- La navigation[^8]
+- Les fonctionnalités[^9]
 
 **Pour le design :** 
 <details>
@@ -443,15 +446,15 @@ Fluidité de passage entre les différents éléments de l'écran (pour ajouter,
 </details>
 
 
-[^3]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
-[^4]: Il fait référence aux différents éléments visuels qui composent l'application (la mise en page, l'équilibre des couleurs, la cohérence graphique, ...).
-[^5]: Il désigne la manière dont l'utilisateur parcours les différents contenus de l'application (le menu, les listes déroulantes, les boutons, ...).
-[^6]: Elles se définissent comme les différentes actions qui sont intégrées dans l'application (ajouter, supprimer, modifier, ...).
+[^6]: Elle désigne l'interaction entre un utilisateur (qui a des attentes, des besoins, ...), un système (qui a des fonctionnalités, une esthétique, ...) et un contexte (utilisation du système à la maison, au travail, ...).
+[^7]: Il fait référence aux différents éléments visuels qui composent l'application (la mise en page, l'équilibre des couleurs, la cohérence graphique, ...).
+[^8]: Il désigne la manière dont l'utilisateur parcours les différents contenus de l'application (le menu, les listes déroulantes, les boutons, ...).
+[^9]: Elles se définissent comme les différentes actions qui sont intégrées dans l'application (ajouter, supprimer, modifier, ...).
 
 ## Interface Cerveau Ordinateur (ICO)
 > [!NOTE]
-> Sa réalisation nécessite des outils mathématiques, probabilistes et informatiques mais également des connaissances spécifiques en sciences cognitives[^1].<br>
-> Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^7] afin d'assurer principalement le contrôle et la communication.
+> Sa réalisation nécessite des outils mathématiques, probabilistes et informatiques mais également des connaissances spécifiques en sciences cognitives[^4].<br>
+> Il permet d'améliorer ou d'explorer des fonctions du système nerveux central[^10] afin d'assurer principalement le contrôle et la communication.
 
 ### Diagramme des compétences clés à mobiliser
 
@@ -599,7 +602,7 @@ flowchart LR
     id21 -- Traitement du signal EGG --> id26
 ```
 ### Exemple
-On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^8].<br>
+On cherche à concevoir de nouvelles technologiques qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^11].<br>
 Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfants pour vérifier leurs besoins.
 On test nos différentes versions auprès des enfants. <br> <br>
 On aboutit au final à une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
@@ -655,8 +658,8 @@ Les retours pourront se faire sous forme de messages et de modifications du comp
 </details>
 </p>
 
-[^7]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
-[^8]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
+[^10]: Elles permettent de contrôler et de réguler (exemples : les mouvements, le langage, la vision, les sensations, ...).
+[^11]: Ils se caractérisent par le développement inégaux de niveaux d'inattention, d'hyperactivité et d'impulsivité.
 
 ## Gestion de projet
 > [!NOTE]
@@ -832,7 +835,7 @@ Il est chargée de coordonner, piloter et gérer la réalisation de projets pour
 <details>
 <summary><strong>UX designer</strong></summary>
 	
-De son nom développé User eXperience designer, il conçoit et optimise l'expérience utilisateur[^3] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs.
+De son nom développé User eXperience designer, il conçoit et optimise l'expérience utilisateur[^6] d'un produit ou d'un service numérique, en s'appuyant sur les besoins, les attentes et les comportements des utilisateurs.
 </details>
 
 <details>
