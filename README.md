@@ -5,7 +5,7 @@ Vous trouverez dans cette section quelques exemples d'applications qu'il est pos
 
 > [!NOTE]
 > Sa réalisation nécessite l'utilisation d'outils mathématiques, statistiques et informatiques. <br>
-> La régression linéaire multiple permet d'estimer une variable quantitive à partir de variables explicant celle-ci.
+> La régression linéaire multiple permet d'estimer une variable quantitative à partir de variables expliquant celle-ci.
 
 ### Diagramme des connaissances et compétences clés à mobiliser
 
