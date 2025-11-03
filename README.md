@@ -1007,29 +1007,41 @@ Ce graphique est ce que l’on appelle un nuage de mots. Il permet d’afficher 
 > Plus le mot est gros, plus sa fréquence est élevée. Les mots ayant une taille similaire, on une fréquence qu'il est également.<br>
 > Les mots ayant la même couleur appartiennent à la même catégorie.
 
-Les équipements les plus donnés par les salariés sont : 
+Les principaux équipements demandés par les salariés sont : 
 - **Support d’écran**
 - **Repose-pieds**
 - **Casque antibruit**
 
 Ils concernent le matériel pour agir directement sur la pénibilité du travail.<br>
 D’autres équipements plus secondairement donnés élargissent l’environnement du travail : 
+
+**Aménagement du bureau**
 <details>
-<summary><strong>Aménagement du bureau</strong></summary>
+<summary>Fortement demandé</summary>
 
 - Coussin lombaire
 - Lampe de bureau
+</details>
+<details>
+<summary>Moyennement demandé</summary>
+	
 - Chargeur sans fil
 - Tapis ergonomique
-- Plange verte
+- Plante verte
 </details>
 
+**Aménagement du cadre de travail**
 <details>
-<summary><strong>Aménagement du cadre de travail</strong></summary>
+<summary>Moyennement demandé</summary>
 
 - Fauteuil de détente
 - Machine à café 
-- Diffuseur d’huiles essentielles 
+- Diffuseur d’huiles essentielles
+</details>
+
+<details>
+<summary>Faiblement demandé</summary>
+
 - Fontaine à eau 
 - Table basse 
 - Enceinte bluetooth
