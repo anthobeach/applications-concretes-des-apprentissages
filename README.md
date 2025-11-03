@@ -285,17 +285,11 @@ Pour cela, on s'appuie sur l'illustration suivante :
 
 Cette illustration est extraite d'un [article de revue](https://www.erudit.org/fr/revues/ms/2003-v19-n4-ms517/006497ar/) paru dans médecine sciences. 
 
-Comme on peut le voir sur cette illustration, la reine transmet la moitié de ses chromosomes alors que le mâle lui, la totalité. 
-Cela s'explique par le fait que le mâle est issu directement de la reine (pas de fécondation de l'oeuf par un mâle). Il ne possède que pour partrimoine génétique, la moitié des gènes de la reine. 
-Ses chromosomes sont tous identiques. Ce qui a pour conséquence, une diversité génétique plus restreinte entre les mâles issu d'une même reine. 
+Comme on peut le voir sur cette illustration, la reine transmet la moitié de ses chromosomes alors que le mâle lui, la totalité. Cela s'explique par le fait que le mâle est issu directement de la reine (pas de fécondation de l'oeuf par un mâle). Il ne possède, pour patrimoine génétique, que la moitié des gènes de la reine. Ses chromosomes sont tous identiques. Ce qui a pour conséquence, une diversité génétique plus restreinte entre les mâles issus d'une même reine.
 
-On constacte que par ce procédé, il y a des différences de transmission de gènes qui conduisent alors, à des liens de parenté selon le sexe.
-En prennant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). 
-La *Fille b* a même plus de gènes en commun avec son neveu (37,5 %) que son propre frère (25 %). 
+On constate qu' il y a des différences de transmission de gènes qui conduisent alors, à des liens de parenté selon le sexe. En prenant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). La *Fille b* a même plus de gènes en commun avec son neveu (37,5 %) que son propre frère (25 %).
 
-Ce phénomène que l'on appelle la dillution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. 
-En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendance (leurs soeurs) que de la leur. 
-La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protége son statut de reine. 
+Ce phénomène, que l'on appelle la dilution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendance (leurs soeurs) que de la leur. La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protège son statut de reine. 
 
 # Les applications possibles en poursuivant en Master
 Vous trouverez dans cette section quelques exemples d'applications qu'il est possible de faire, avec les connaissances et compétences acquises au cours des années de la Licence et du Master.
