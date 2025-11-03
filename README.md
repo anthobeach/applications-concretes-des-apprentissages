@@ -843,14 +843,14 @@ De son nom développé User Interface designer, il conçoit l'interface visuelle
 
 > [!TIP]
 > Pour mieux comprendre cette planification, il faut savoir que chaque membre de l'équipe est affecté à plusieurs projets en même temps ayant des niveaux d'avancements hétérogènes.
-> L'entreprise employant des profils très spécifiques (souvent avec des rémunérations élevées), doit utiliser leurs compétences et leurs efficacités afin de rentabiliser ses investissements.
+> L'entreprise employant des profils très spécifiques (souvent avec des rémunérations élevées) doit utiliser leurs compétences et leurs efficacités, afin de rentabiliser ses investissements.
 > Cela lui permet également de proposer des offres sur mesure à ses clients, dans des délais raisonnables.
 
 On va décortiquer les différentes étapes du projet : 
 <details>
 <summary><strong>1. Recherche et construction d'une première ébauche du site web</strong></summary>	
 	
-**Durée :** elle s'étalle sur 1 semaine (du **15 au 19 janvier**).
+**Durée :** elle s'étale sur 1 semaine (du **15 au 19 janvier**).
 
 **Description :** elle consite à étudier les différentes opportunités du marché (`Etude de marché`) et concevoir une première version du système de vente (`Conception UML`).
 </details>
@@ -858,37 +858,37 @@ On va décortiquer les différentes étapes du projet :
 <details>
 <summary><strong>2. Elaboration de la base du site web</strong></summary>	
 	
-**Durée :** elle s'étalle sur 1 semaine (du **22 au 26 janvier**).
+**Durée :** elle s'étale sur 1 semaine (du **22 au 26 janvier**).
 
-**Description :** elle consiste à se baser sur la première ébauche en l'améliorant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établi (`Conception UML`).
+**Description :** elle consiste à se baser sur la première ébauche en l'améliorant. Pour cela, un examen plus spécifique du marché (`Etude de marché`) mais également, une délimitation précise des besoins des clients et des utilisateurs du site web (`Analyse des besoins`). Une deuxième version du système de vente est alors établie (`Conception UML`).
 </details>
 
 <details>
 <summary><strong>3. Conception d'une maquette du site web</strong></summary>	
 
-**Durée :** elle s'étalle sur 1 semaine (du **29 janvier au 2 février**).
+**Durée :** elle s'étale sur 1 semaine (du **29 janvier au 2 février**).
 
-**Description :** elle consite à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des partenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collaborations et pour l'autre, externaliser certains services comme la commande à emporter.
+**Description :** elle consiste à créer un modèle structurel (`Création d'une base de données`) et visuel (`Conception de l'interface`) du site, en se référent à la deuxième version du système de vente. Dans le même temps, des partenariats et des sous-traitances sont cherchés (`Affilation avec les partenaires & sous-traitant`) afin pour l'un, de développer les opportunités de collaborations et pour l'autre, externaliser certains services comme la commande à emporter.
 </details>
 
 <details>
 <summary><strong>4. Développement du site web</strong></summary>
 	
-**Durée** : elle s'étalle sur 3 semaines (du **5 au 23 février**).
+**Durée** : elle s'étale sur 3 semaines (du **5 au 23 février**).
 
 **Description :** elle consiste à coder l'ensemble du site en se basant sur la maquette.<br>
 Plus particulièrement :
 - Toute la structure numérique du site (`Création de l'architecture du site`) comme la sécurité, la cohérence entre les pages, le format des pages
-- L'interface graphique (exemples : bouton, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une patisserie dans le panier, choisir la quantité, personnaliser un gateau, ...) du site (`Programmation front et back-end`)
+- L'interface graphique (exemples : bouton, menu, mise en page, ...) et les fonctionnalités (exemples : mettre une pâtisserie dans le panier, choisir la quantité, personnaliser un gâteau, ...) du site (`Programmation front et back-end`)
 - Plusieurs versions du site vont être réalisées selon l'évolution des besoins du client, la faisabilité dans le temps imparti, les partenariats et sous-traitances concluent (`Affilation avec les partenaires & sous-traitant`)
 </details>
 
 <details>
 <summary><strong>5. Finalisation du site web</strong></summary>
 
-**Durée** : elle s'étalle sur 3 semaines et demi (du **26 février au 21 mars**).
+**Durée** : elle s'étale sur 3 semaines et demie (du **26 février au 21 mars**).
 
-**Description :** elle consiste à faire les derniers réglagles avec l'assemblage de toutes les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`).
+**Description :** elle consiste à faire les derniers réglages avec l'assemblage de toutes les parties développées (`Lien avec la base de donnèes`) et la vérification du site (`Test du site web`) selon les attentes des clients, des utilisateurs, des sous-traitants et des partenaires. En toute fin, le chef de projet s'assure de la bonne conformité entre les attentes et la réalisation (`Validation du site`).
 </details>
 
 ## Analyse de données
@@ -998,7 +998,7 @@ Voici un extrait du rapport :
 Ce graphique est ce que l’on appelle un nuage de mots. Il permet d’afficher synthétiquement les mots qui ressortent le plus. Dans notre cas, ce sont les équipements supplémentaires que les salariés souhaitent avoir. 
 
 > [!TIP]
-> Plus le mot est gros, plus sa fréquence est élevée. Les mots ayant une taille similaire, on une fréquence qu'il est également.<br>
+> Plus le mot est gros, plus sa fréquence est élevée. Les mots ayant une taille similaire, ont une fréquence qu'il est également.<br>
 > Les mots ayant la même couleur appartiennent à la même catégorie.
 
 Les principaux équipements demandés par les salariés sont : 
@@ -1041,4 +1041,4 @@ D’autres équipements plus secondairement donnés élargissent l’environneme
 - Enceinte bluetooth
 </details>
 
-En résumé, les salariés souhaitent être davantage équipé en matériel principalement pour leur confort personnel mais aussi, pour avoir des espaces de détentes communs. 
+En résumé, les salariés souhaitent être davantage équipés en matériel, principalement pour leur confort personnel, mais aussi pour avoir des espaces de détentes communs.
