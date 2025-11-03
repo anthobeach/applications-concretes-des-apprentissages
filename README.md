@@ -287,7 +287,7 @@ Cette illustration est extraite d'un [article de revue](https://www.erudit.org/f
 
 Comme on peut le voir sur cette illustration, la reine transmet la moitié de ses chromosomes alors que le mâle lui, la totalité. Cela s'explique par le fait que le mâle est issu directement de la reine (pas de fécondation de l'oeuf par un mâle). Il ne possède, pour patrimoine génétique, que la moitié des gènes de la reine. Ses chromosomes sont tous identiques. Ce qui a pour conséquence, une diversité génétique plus restreinte entre les mâles issus d'une même reine.
 
-On constate qu' il y a des différences de transmission de gènes qui conduisent alors, à des liens de parenté selon le sexe. En prenant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). La *Fille b* a même plus de gènes en commun avec son neveu (37,5 %) que son propre frère (25 %).
+On constate qu'il y a des différences de transmission de gènes qui conduisent alors, à des liens de parenté selon le sexe. En prenant l'exemple de la *Fille a* issu de la reine et du mâle, elle a 25 % de gènes en commun avec son frère (*Fils*) contre 75 % de gènes en commun avec sa soeur (*Fille b*). La *Fille b* a même plus de gènes en commun avec son neveu (37,5 %) que son propre frère (25 %).
 
 Ce phénomène, que l'on appelle la dilution génétique, est un comportement qu'adopte la reine afin de réguler sa descendance. En faisant cela, la reine s'assure que ses filles s'occupent plutôt de sa propre descendance (leurs soeurs) que de la leur. La reine garde ainsi le contrôle sur la distribution génétique entre les générations, et indirectement, protège son statut de reine. 
 
@@ -399,7 +399,7 @@ Cette analyse se fait selon 3 axes :
 <details>
 	<summary> - </summary>
 	
-- Bouton pour accéder aux graphiques plus détaillés un peu grossié (sur l'écran d'accueil)
+- Bouton pour accéder aux graphiques plus détaillés un peu grossier (sur l'écran d'accueil)
 - Impression d'une liste interminable (sur l'écran paramètres)
 
 </details>
@@ -588,23 +588,23 @@ flowchart LR
     id18 -- Base de l'anayse <br> cérébrale <br> pathologique et <br> non pathologique --> id21
     id13 -- Analyse avancée <br> d'intégrales et <br> de séries --> id21
     info1 -- Base de la <br> logique --> id22
-    id22 -- Base du traitement <br> d'un réseau <br> de neurones <br> artficielles --> id26
+    id22 -- Base du traitement <br> d'un réseau <br> de neurones <br> artificielles --> id26
     id21 -- Interprétation des <br> résultats du réseau <br> de neurones --> id25
-    id26 -- Classification des <br> potentiels évoqués --> id25
+    id26 -- Classification des <br> signaux éléctriques <br> cérébraux --> id25
     id15 -- Variables aléatoires --> id23
     id23 -- Processus stochastiques --> id26
     id20 -- Transformations <br> des données --> id26
-    id25 -- Méthodes numériques <br> d'analyse des <br> potentiels évoqués --> id27
-    id21 -- Traitement du signal EGG --> id26
+    id25 -- Méthodes numériques <br> d'analyse de l'activité électrique cérébrale --> id27
+    id21 -- Traitement des signaux électriques <br> cérébraux --> id26
 ```
 ### Exemple
 On cherche à concevoir de nouvelles technologies qui pourraient aider les enfants ayant des Troubles de l'Attention avec ou sans Hyperactivité (TDA/H)[^11].<br>
 Pour cela, on fait une analyse des technologies déjà développées pour ce type de pratique et on interroge un panel d'enfants pour vérifier leurs besoins.
-On test nos différentes versions auprès des enfants. 
+On teste nos différentes versions auprès des enfants. 
 
 On aboutit au final à une application mobile où l'enfant pourra soit choisir un jeu parmi ceux proposés, soit créer son propre jeu. 
-La création de son propre jeu, reposera sur des thématiques de jeu déjà existantes, qui seront personnalisées selon les demandes de l'enfant. 
-Ces demandes pourront se faire à l'écrit ou à l'oral. Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalisable les requêtes des enfants. 
+La création de son propre jeu reposera sur des thématiques de jeu déjà existantes, qui seront personnalisées selon les demandes de l'enfant. 
+Ces demandes pourront se faire à l'écrit ou à l'oral. Un modèle d'IA générative conçu par nos soins, se chargera de rendre réalisable, les requêtes des enfants. 
 
 Voici le schéma expérimental que nous avons mis en place :
 ![](https://github.com/anthobeach/applications-concretes-des-apprentissages/blob/40a4b78eacc362212fe6ca78f41f8dadc661ab9e/images/Exemple%20d'ICO/Sch%C3%A9ma%20exp%C3%A9rimental%20d'une%20interface%20cerveau%20ordinateur.png)
@@ -618,7 +618,7 @@ Les informations ainsi recueillies par la box internet vont être envoyées en t
 Ce sont principalement les informations liées à l'activité électrique du cerveau qui vont suivre ce traitement : 
 <details>
 	<summary><strong>Amplifier</strong></summary>
-Les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitable (ils arrivent avec une faible intensité électrique).
+Les signaux électriques provenant de l'activité du cerveau vont être amplifiés de façon à les rendre exploitables (ils arrivent avec une faible intensité électrique).
 </details>
 <details>
 	<summary><strong>Filtrer</strong></summary>
