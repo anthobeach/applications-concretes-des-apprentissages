@@ -183,7 +183,6 @@ Ce qui veut dire que l'hypothèse selon laquelle il n'existe pas de différence 
 Plus précisément, les différences sont plus marquées avec le groupe B que le groupe C. <br>
 On peut conclure que la première hypothèse est validée. <br> <br>
 </details>
-
 <details>
 	<summary> <strong> Pour la deuxième hypothèse  </strong> </summary>
 On constate alors qu'il existe 2 fois sur 3, aucune différence significative entre les deux groupes. <br>
