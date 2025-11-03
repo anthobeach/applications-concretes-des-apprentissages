@@ -193,7 +193,7 @@ On peut conclure que la deuxième hypothèse est validée.
 </details>
 
 [^1]: Elle stipule que l'on ne peut pas mettre en évidence un lien (exemple : l'employé n'a pas fraudé (H<sub>0</sub>)).
-[^2]: Cela désigne une ou des hypothèses qui stipulent qu'il existe un lien (exemple : l'employé à détourner des fonds de l'entreprise (H<sub>1</sub>), l'employé à placé de l'argent dans des paradis fiscaux (H<sub>2</sub>)).
+[^2]: Cela désigne une ou des hypothèses qui stipulent qu'il existe un lien (exemple : l'employé a détourné des fonds de l'entreprise (H<sub>1</sub>), l'employé a placé de l'argent dans des paradis fiscaux (H<sub>2</sub>)).
 [^3]: C'est la valeur seuil à partir de laquelle on peut qualifier la force du lien.
 
 ## Modélisation biomathématique
@@ -660,9 +660,10 @@ Les retours pourront se faire sous forme de messages et de modifications du comp
 
 ## Gestion de projet
 > [!NOTE]
-> Sa mise en partique nécessite des outils mathématiques, informatiques, statistiques et probabilistes ainsi que, des connaissances spécifiques en économie-gestion.<br>
+> Sa mise en partique nécessite des outils mathématiques, informatiques, statistiques et probabilistes ainsi que, des connaissances spécifiques en économie-gestion[^12].<br>
 > Elle permet de définir un processus pour coordonner, gérer et planifier le développement d'un projet.
 
+[^12]: C'est une discipline qui étudie le monde économique et la gestion des organisations, utile aussi bien à l'échelle macroéconomique (Etat,marchés) qu'au niveau microéconomique (entreprises, individus).
 ### Diagramme des connaissances et compétences clés à mobiliser
 ```mermaid
 flowchart LR
